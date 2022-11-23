@@ -8595,3 +8595,4503 @@ INFO - 2022-11-23 12:56:43 --> Model "Frontend_model" initialized
 INFO - 2022-11-23 12:56:43 --> File loaded: /public/application/views/backend/index.php
 INFO - 2022-11-23 12:56:43 --> Final output sent to browser
 DEBUG - 2022-11-23 12:56:43 --> Total execution time: 0.7548
+INFO - 2022-11-23 14:02:16 --> Config Class Initialized
+INFO - 2022-11-23 14:02:16 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:02:17 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:02:17 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:02:17 --> URI Class Initialized
+INFO - 2022-11-23 14:02:17 --> Router Class Initialized
+INFO - 2022-11-23 14:02:17 --> Output Class Initialized
+INFO - 2022-11-23 14:02:17 --> Security Class Initialized
+DEBUG - 2022-11-23 14:02:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:02:17 --> Input Class Initialized
+INFO - 2022-11-23 14:02:17 --> Language Class Initialized
+INFO - 2022-11-23 14:02:17 --> Loader Class Initialized
+INFO - 2022-11-23 14:02:17 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:02:17 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:02:17 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:02:17 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:02:17 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:02:17 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:02:17 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:02:17 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:02:17 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:02:17 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:02:17 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:02:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:02:17 --> Pagination Class Initialized
+INFO - 2022-11-23 14:02:17 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:02:17 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:02:17 --> Email Class Initialized
+INFO - 2022-11-23 14:02:17 --> Upload Class Initialized
+INFO - 2022-11-23 14:02:17 --> Controller Class Initialized
+INFO - 2022-11-23 14:02:17 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:02:17 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:02:17 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:02:17 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:02:17 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:02:17 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:02:17 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:02:17 --> Final output sent to browser
+DEBUG - 2022-11-23 14:02:17 --> Total execution time: 0.5636
+INFO - 2022-11-23 14:02:23 --> Config Class Initialized
+INFO - 2022-11-23 14:02:23 --> Config Class Initialized
+INFO - 2022-11-23 14:02:23 --> Hooks Class Initialized
+INFO - 2022-11-23 14:02:23 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:02:23 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:02:23 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:02:23 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:02:23 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:02:23 --> URI Class Initialized
+INFO - 2022-11-23 14:02:23 --> URI Class Initialized
+INFO - 2022-11-23 14:02:23 --> Router Class Initialized
+INFO - 2022-11-23 14:02:23 --> Router Class Initialized
+INFO - 2022-11-23 14:02:23 --> Output Class Initialized
+INFO - 2022-11-23 14:02:23 --> Security Class Initialized
+INFO - 2022-11-23 14:02:23 --> Output Class Initialized
+DEBUG - 2022-11-23 14:02:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:02:23 --> Security Class Initialized
+INFO - 2022-11-23 14:02:23 --> Input Class Initialized
+DEBUG - 2022-11-23 14:02:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:02:23 --> Language Class Initialized
+INFO - 2022-11-23 14:02:23 --> Input Class Initialized
+INFO - 2022-11-23 14:02:23 --> Language Class Initialized
+ERROR - 2022-11-23 14:02:23 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:02:23 --> Final output sent to browser
+INFO - 2022-11-23 14:02:23 --> Loader Class Initialized
+DEBUG - 2022-11-23 14:02:23 --> Total execution time: 0.1129
+INFO - 2022-11-23 14:02:23 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:02:23 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:02:23 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:02:23 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:02:23 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:02:23 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:02:23 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:02:23 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:02:23 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:02:23 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:02:23 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:02:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:02:23 --> Pagination Class Initialized
+INFO - 2022-11-23 14:02:23 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:02:23 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:02:23 --> Email Class Initialized
+INFO - 2022-11-23 14:02:23 --> Upload Class Initialized
+INFO - 2022-11-23 14:02:23 --> Controller Class Initialized
+INFO - 2022-11-23 14:02:23 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:02:24 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:02:24 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:02:24 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:02:24 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:02:24 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:02:24 --> File loaded: /public/application/views/backend/admin/add_department.php
+INFO - 2022-11-23 14:02:24 --> Final output sent to browser
+DEBUG - 2022-11-23 14:02:24 --> Total execution time: 0.3853
+INFO - 2022-11-23 14:13:41 --> Config Class Initialized
+INFO - 2022-11-23 14:13:41 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:13:41 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:13:41 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:13:41 --> URI Class Initialized
+INFO - 2022-11-23 14:13:41 --> Router Class Initialized
+INFO - 2022-11-23 14:13:41 --> Output Class Initialized
+INFO - 2022-11-23 14:13:41 --> Security Class Initialized
+DEBUG - 2022-11-23 14:13:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:13:41 --> Input Class Initialized
+INFO - 2022-11-23 14:13:41 --> Language Class Initialized
+INFO - 2022-11-23 14:13:41 --> Loader Class Initialized
+INFO - 2022-11-23 14:13:41 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:13:41 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:13:41 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:13:41 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:13:41 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:13:41 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:13:41 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:13:41 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:13:41 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:13:41 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:13:41 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:13:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:13:41 --> Pagination Class Initialized
+INFO - 2022-11-23 14:13:41 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:13:41 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:13:41 --> Email Class Initialized
+INFO - 2022-11-23 14:13:41 --> Upload Class Initialized
+INFO - 2022-11-23 14:13:41 --> Controller Class Initialized
+INFO - 2022-11-23 14:13:41 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:13:41 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:13:41 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:13:41 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:13:41 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:13:41 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:13:48 --> Config Class Initialized
+INFO - 2022-11-23 14:13:48 --> Hooks Class Initialized
+INFO - 2022-11-23 14:13:48 --> Config Class Initialized
+INFO - 2022-11-23 14:13:48 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:13:48 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:13:48 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:13:48 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:13:48 --> URI Class Initialized
+INFO - 2022-11-23 14:13:48 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:13:48 --> URI Class Initialized
+INFO - 2022-11-23 14:13:48 --> Router Class Initialized
+INFO - 2022-11-23 14:13:48 --> Router Class Initialized
+INFO - 2022-11-23 14:13:48 --> Output Class Initialized
+INFO - 2022-11-23 14:13:48 --> Output Class Initialized
+INFO - 2022-11-23 14:13:48 --> Security Class Initialized
+INFO - 2022-11-23 14:13:48 --> Security Class Initialized
+DEBUG - 2022-11-23 14:13:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:13:48 --> Input Class Initialized
+DEBUG - 2022-11-23 14:13:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:13:48 --> Language Class Initialized
+INFO - 2022-11-23 14:13:48 --> Input Class Initialized
+INFO - 2022-11-23 14:13:48 --> Language Class Initialized
+INFO - 2022-11-23 14:13:48 --> Loader Class Initialized
+ERROR - 2022-11-23 14:13:48 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:13:48 --> Final output sent to browser
+DEBUG - 2022-11-23 14:13:48 --> Total execution time: 0.1615
+INFO - 2022-11-23 14:13:48 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:13:48 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:13:48 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:13:48 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:13:48 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:13:48 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:13:48 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:13:48 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:13:48 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:13:48 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:13:48 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:13:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:13:48 --> Pagination Class Initialized
+INFO - 2022-11-23 14:13:48 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:13:48 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:13:48 --> Email Class Initialized
+INFO - 2022-11-23 14:13:48 --> Upload Class Initialized
+INFO - 2022-11-23 14:13:48 --> Controller Class Initialized
+INFO - 2022-11-23 14:13:48 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:13:48 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:13:48 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:13:48 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:13:48 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:13:48 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:13:48 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:13:48 --> Final output sent to browser
+DEBUG - 2022-11-23 14:13:48 --> Total execution time: 0.5092
+INFO - 2022-11-23 14:14:00 --> Config Class Initialized
+INFO - 2022-11-23 14:14:00 --> Config Class Initialized
+INFO - 2022-11-23 14:14:00 --> Hooks Class Initialized
+INFO - 2022-11-23 14:14:00 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:14:00 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:14:00 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:14:00 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:14:00 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:14:00 --> URI Class Initialized
+INFO - 2022-11-23 14:14:00 --> URI Class Initialized
+INFO - 2022-11-23 14:14:00 --> Router Class Initialized
+INFO - 2022-11-23 14:14:00 --> Router Class Initialized
+INFO - 2022-11-23 14:14:00 --> Output Class Initialized
+INFO - 2022-11-23 14:14:00 --> Output Class Initialized
+INFO - 2022-11-23 14:14:00 --> Security Class Initialized
+INFO - 2022-11-23 14:14:00 --> Security Class Initialized
+DEBUG - 2022-11-23 14:14:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:14:00 --> Input Class Initialized
+DEBUG - 2022-11-23 14:14:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:14:00 --> Input Class Initialized
+INFO - 2022-11-23 14:14:00 --> Language Class Initialized
+INFO - 2022-11-23 14:14:00 --> Language Class Initialized
+INFO - 2022-11-23 14:14:00 --> Loader Class Initialized
+ERROR - 2022-11-23 14:14:00 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:14:00 --> Final output sent to browser
+INFO - 2022-11-23 14:14:00 --> Helper loaded: url_helper
+DEBUG - 2022-11-23 14:14:00 --> Total execution time: 0.1277
+INFO - 2022-11-23 14:14:00 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:14:00 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:14:00 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:14:00 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:14:00 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:14:00 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:14:00 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:14:00 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:14:00 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:14:00 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:14:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:14:00 --> Pagination Class Initialized
+INFO - 2022-11-23 14:14:00 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:14:00 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:14:00 --> Email Class Initialized
+INFO - 2022-11-23 14:14:00 --> Upload Class Initialized
+INFO - 2022-11-23 14:14:00 --> Controller Class Initialized
+INFO - 2022-11-23 14:14:00 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:14:00 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:14:00 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:14:00 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:14:00 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:14:00 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:14:00 --> File loaded: /public/application/views/backend/admin/add_department.php
+INFO - 2022-11-23 14:14:00 --> Final output sent to browser
+DEBUG - 2022-11-23 14:14:00 --> Total execution time: 0.3860
+INFO - 2022-11-23 14:14:23 --> Config Class Initialized
+INFO - 2022-11-23 14:14:23 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:14:23 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:14:23 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:14:23 --> URI Class Initialized
+INFO - 2022-11-23 14:14:23 --> Router Class Initialized
+INFO - 2022-11-23 14:14:23 --> Output Class Initialized
+INFO - 2022-11-23 14:14:23 --> Security Class Initialized
+DEBUG - 2022-11-23 14:14:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:14:23 --> Input Class Initialized
+INFO - 2022-11-23 14:14:23 --> Language Class Initialized
+INFO - 2022-11-23 14:14:23 --> Loader Class Initialized
+INFO - 2022-11-23 14:14:23 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:14:23 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:14:23 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:14:23 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:14:23 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:14:23 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:14:23 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:14:23 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:14:23 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:14:23 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:14:23 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:14:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:14:23 --> Pagination Class Initialized
+INFO - 2022-11-23 14:14:23 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:14:23 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:14:23 --> Email Class Initialized
+INFO - 2022-11-23 14:14:23 --> Upload Class Initialized
+INFO - 2022-11-23 14:14:23 --> Controller Class Initialized
+INFO - 2022-11-23 14:14:23 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:14:23 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:14:23 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:14:23 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:14:23 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:14:23 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:14:23 --> Config Class Initialized
+INFO - 2022-11-23 14:14:23 --> Hooks Class Initialized
+INFO - 2022-11-23 14:14:23 --> Config Class Initialized
+INFO - 2022-11-23 14:14:23 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:14:23 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:14:23 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:14:23 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:14:23 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:14:23 --> URI Class Initialized
+INFO - 2022-11-23 14:14:23 --> URI Class Initialized
+INFO - 2022-11-23 14:14:23 --> Router Class Initialized
+INFO - 2022-11-23 14:14:23 --> Router Class Initialized
+INFO - 2022-11-23 14:14:23 --> Output Class Initialized
+INFO - 2022-11-23 14:14:23 --> Security Class Initialized
+INFO - 2022-11-23 14:14:23 --> Output Class Initialized
+DEBUG - 2022-11-23 14:14:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:14:23 --> Security Class Initialized
+INFO - 2022-11-23 14:14:23 --> Input Class Initialized
+INFO - 2022-11-23 14:14:24 --> Language Class Initialized
+DEBUG - 2022-11-23 14:14:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:14:24 --> Input Class Initialized
+INFO - 2022-11-23 14:14:24 --> Language Class Initialized
+INFO - 2022-11-23 14:14:24 --> Loader Class Initialized
+ERROR - 2022-11-23 14:14:24 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:14:24 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:14:24 --> Final output sent to browser
+DEBUG - 2022-11-23 14:14:24 --> Total execution time: 0.1619
+INFO - 2022-11-23 14:14:24 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:14:24 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:14:24 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:14:24 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:14:24 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:14:24 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:14:24 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:14:24 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:14:24 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:14:24 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:14:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:14:24 --> Pagination Class Initialized
+INFO - 2022-11-23 14:14:24 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:14:24 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:14:24 --> Email Class Initialized
+INFO - 2022-11-23 14:14:24 --> Upload Class Initialized
+INFO - 2022-11-23 14:14:24 --> Controller Class Initialized
+INFO - 2022-11-23 14:14:24 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:14:24 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:14:24 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:14:24 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:14:24 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:14:24 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:14:24 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:14:24 --> Final output sent to browser
+DEBUG - 2022-11-23 14:14:24 --> Total execution time: 0.4658
+INFO - 2022-11-23 14:14:30 --> Config Class Initialized
+INFO - 2022-11-23 14:14:30 --> Config Class Initialized
+INFO - 2022-11-23 14:14:30 --> Hooks Class Initialized
+INFO - 2022-11-23 14:14:30 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:14:30 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:14:30 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:14:30 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:14:30 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:14:30 --> URI Class Initialized
+INFO - 2022-11-23 14:14:30 --> URI Class Initialized
+INFO - 2022-11-23 14:14:30 --> Router Class Initialized
+INFO - 2022-11-23 14:14:30 --> Router Class Initialized
+INFO - 2022-11-23 14:14:30 --> Output Class Initialized
+INFO - 2022-11-23 14:14:30 --> Output Class Initialized
+INFO - 2022-11-23 14:14:30 --> Security Class Initialized
+INFO - 2022-11-23 14:14:30 --> Security Class Initialized
+DEBUG - 2022-11-23 14:14:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:14:30 --> Input Class Initialized
+DEBUG - 2022-11-23 14:14:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:14:30 --> Input Class Initialized
+INFO - 2022-11-23 14:14:30 --> Language Class Initialized
+INFO - 2022-11-23 14:14:30 --> Language Class Initialized
+ERROR - 2022-11-23 14:14:30 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:14:30 --> Loader Class Initialized
+INFO - 2022-11-23 14:14:30 --> Final output sent to browser
+DEBUG - 2022-11-23 14:14:30 --> Total execution time: 0.1197
+INFO - 2022-11-23 14:14:30 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:14:30 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:14:31 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:14:31 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:14:31 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:14:31 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:14:31 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:14:31 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:14:31 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:14:31 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:14:31 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:14:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:14:31 --> Pagination Class Initialized
+INFO - 2022-11-23 14:14:31 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:14:31 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:14:31 --> Email Class Initialized
+INFO - 2022-11-23 14:14:31 --> Upload Class Initialized
+INFO - 2022-11-23 14:14:31 --> Controller Class Initialized
+INFO - 2022-11-23 14:14:31 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:14:31 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:14:31 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:14:31 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:14:31 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:14:31 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:14:31 --> File loaded: /public/application/views/backend/admin/add_department.php
+INFO - 2022-11-23 14:14:31 --> Final output sent to browser
+DEBUG - 2022-11-23 14:14:31 --> Total execution time: 0.4002
+INFO - 2022-11-23 14:14:52 --> Config Class Initialized
+INFO - 2022-11-23 14:14:52 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:14:52 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:14:52 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:14:52 --> URI Class Initialized
+INFO - 2022-11-23 14:14:52 --> Router Class Initialized
+INFO - 2022-11-23 14:14:52 --> Output Class Initialized
+INFO - 2022-11-23 14:14:52 --> Security Class Initialized
+DEBUG - 2022-11-23 14:14:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:14:52 --> Input Class Initialized
+INFO - 2022-11-23 14:14:52 --> Language Class Initialized
+INFO - 2022-11-23 14:14:52 --> Loader Class Initialized
+INFO - 2022-11-23 14:14:52 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:14:52 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:14:52 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:14:52 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:14:52 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:14:52 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:14:52 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:14:52 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:14:52 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:14:52 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:14:52 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:14:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:14:52 --> Pagination Class Initialized
+INFO - 2022-11-23 14:14:52 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:14:52 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:14:52 --> Email Class Initialized
+INFO - 2022-11-23 14:14:52 --> Upload Class Initialized
+INFO - 2022-11-23 14:14:52 --> Controller Class Initialized
+INFO - 2022-11-23 14:14:52 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:14:52 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:14:52 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:14:52 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:14:52 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:14:52 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:14:52 --> Config Class Initialized
+INFO - 2022-11-23 14:14:52 --> Hooks Class Initialized
+INFO - 2022-11-23 14:14:52 --> Config Class Initialized
+INFO - 2022-11-23 14:14:52 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:14:52 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:14:52 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:14:52 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:14:52 --> URI Class Initialized
+INFO - 2022-11-23 14:14:52 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:14:53 --> Router Class Initialized
+INFO - 2022-11-23 14:14:53 --> URI Class Initialized
+INFO - 2022-11-23 14:14:53 --> Output Class Initialized
+INFO - 2022-11-23 14:14:53 --> Router Class Initialized
+INFO - 2022-11-23 14:14:53 --> Security Class Initialized
+INFO - 2022-11-23 14:14:53 --> Output Class Initialized
+DEBUG - 2022-11-23 14:14:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:14:53 --> Input Class Initialized
+INFO - 2022-11-23 14:14:53 --> Security Class Initialized
+INFO - 2022-11-23 14:14:53 --> Language Class Initialized
+DEBUG - 2022-11-23 14:14:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:14:53 --> Input Class Initialized
+INFO - 2022-11-23 14:14:53 --> Language Class Initialized
+INFO - 2022-11-23 14:14:53 --> Loader Class Initialized
+ERROR - 2022-11-23 14:14:53 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:14:53 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:14:53 --> Final output sent to browser
+INFO - 2022-11-23 14:14:53 --> Helper loaded: file_helper
+DEBUG - 2022-11-23 14:14:53 --> Total execution time: 0.1539
+INFO - 2022-11-23 14:14:53 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:14:53 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:14:53 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:14:53 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:14:53 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:14:53 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:14:53 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:14:53 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:14:53 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:14:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:14:53 --> Pagination Class Initialized
+INFO - 2022-11-23 14:14:53 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:14:53 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:14:53 --> Email Class Initialized
+INFO - 2022-11-23 14:14:53 --> Upload Class Initialized
+INFO - 2022-11-23 14:14:53 --> Controller Class Initialized
+INFO - 2022-11-23 14:14:53 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:14:53 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:14:53 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:14:53 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:14:53 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:14:53 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:14:53 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:14:53 --> Final output sent to browser
+DEBUG - 2022-11-23 14:14:53 --> Total execution time: 0.4645
+INFO - 2022-11-23 14:14:53 --> Config Class Initialized
+INFO - 2022-11-23 14:14:53 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:14:53 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:14:53 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:14:53 --> URI Class Initialized
+INFO - 2022-11-23 14:14:53 --> Router Class Initialized
+INFO - 2022-11-23 14:14:53 --> Output Class Initialized
+INFO - 2022-11-23 14:14:53 --> Security Class Initialized
+DEBUG - 2022-11-23 14:14:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:14:53 --> Input Class Initialized
+INFO - 2022-11-23 14:14:53 --> Language Class Initialized
+ERROR - 2022-11-23 14:14:53 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:14:53 --> Final output sent to browser
+DEBUG - 2022-11-23 14:14:53 --> Total execution time: 0.1837
+INFO - 2022-11-23 14:14:54 --> Config Class Initialized
+INFO - 2022-11-23 14:14:54 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:14:54 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:14:54 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:14:54 --> URI Class Initialized
+INFO - 2022-11-23 14:14:54 --> Router Class Initialized
+INFO - 2022-11-23 14:14:54 --> Output Class Initialized
+INFO - 2022-11-23 14:14:54 --> Security Class Initialized
+DEBUG - 2022-11-23 14:14:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:14:54 --> Input Class Initialized
+INFO - 2022-11-23 14:14:54 --> Language Class Initialized
+ERROR - 2022-11-23 14:14:54 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:14:54 --> Final output sent to browser
+DEBUG - 2022-11-23 14:14:54 --> Total execution time: 0.1297
+INFO - 2022-11-23 14:14:59 --> Config Class Initialized
+INFO - 2022-11-23 14:14:59 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:14:59 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:14:59 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:14:59 --> URI Class Initialized
+INFO - 2022-11-23 14:14:59 --> Router Class Initialized
+INFO - 2022-11-23 14:14:59 --> Output Class Initialized
+INFO - 2022-11-23 14:14:59 --> Security Class Initialized
+DEBUG - 2022-11-23 14:14:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:14:59 --> Input Class Initialized
+INFO - 2022-11-23 14:14:59 --> Language Class Initialized
+INFO - 2022-11-23 14:14:59 --> Loader Class Initialized
+INFO - 2022-11-23 14:14:59 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:14:59 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:14:59 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:14:59 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:14:59 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:14:59 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:14:59 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:14:59 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:14:59 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:14:59 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:14:59 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:14:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:14:59 --> Pagination Class Initialized
+INFO - 2022-11-23 14:14:59 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:14:59 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:14:59 --> Email Class Initialized
+INFO - 2022-11-23 14:14:59 --> Upload Class Initialized
+INFO - 2022-11-23 14:14:59 --> Controller Class Initialized
+INFO - 2022-11-23 14:14:59 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:14:59 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:14:59 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:14:59 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:14:59 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:14:59 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:14:59 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:14:59 --> Final output sent to browser
+DEBUG - 2022-11-23 14:14:59 --> Total execution time: 0.3935
+INFO - 2022-11-23 14:15:36 --> Config Class Initialized
+INFO - 2022-11-23 14:15:36 --> Config Class Initialized
+INFO - 2022-11-23 14:15:36 --> Hooks Class Initialized
+INFO - 2022-11-23 14:15:36 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:15:36 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:15:36 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:15:36 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:15:36 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:15:36 --> URI Class Initialized
+INFO - 2022-11-23 14:15:36 --> URI Class Initialized
+INFO - 2022-11-23 14:15:36 --> Router Class Initialized
+INFO - 2022-11-23 14:15:36 --> Router Class Initialized
+INFO - 2022-11-23 14:15:36 --> Output Class Initialized
+INFO - 2022-11-23 14:15:36 --> Output Class Initialized
+INFO - 2022-11-23 14:15:36 --> Security Class Initialized
+INFO - 2022-11-23 14:15:36 --> Security Class Initialized
+DEBUG - 2022-11-23 14:15:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:15:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:15:36 --> Input Class Initialized
+INFO - 2022-11-23 14:15:36 --> Input Class Initialized
+INFO - 2022-11-23 14:15:36 --> Language Class Initialized
+INFO - 2022-11-23 14:15:36 --> Language Class Initialized
+ERROR - 2022-11-23 14:15:36 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:15:36 --> Loader Class Initialized
+INFO - 2022-11-23 14:15:36 --> Final output sent to browser
+DEBUG - 2022-11-23 14:15:36 --> Total execution time: 0.1110
+INFO - 2022-11-23 14:15:36 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:15:36 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:15:36 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:15:36 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:15:36 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:15:36 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:15:36 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:15:36 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:15:36 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:15:36 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:15:36 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:15:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:15:36 --> Pagination Class Initialized
+INFO - 2022-11-23 14:15:36 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:15:36 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:15:36 --> Email Class Initialized
+INFO - 2022-11-23 14:15:36 --> Upload Class Initialized
+INFO - 2022-11-23 14:15:36 --> Controller Class Initialized
+INFO - 2022-11-23 14:15:36 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:15:36 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:15:36 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:15:36 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:15:36 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:15:36 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:15:36 --> File loaded: /public/application/views/backend/admin/add_doctor.php
+INFO - 2022-11-23 14:15:36 --> Final output sent to browser
+DEBUG - 2022-11-23 14:15:36 --> Total execution time: 0.3713
+INFO - 2022-11-23 14:16:28 --> Config Class Initialized
+INFO - 2022-11-23 14:16:28 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:16:28 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:16:28 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:16:28 --> URI Class Initialized
+INFO - 2022-11-23 14:16:28 --> Router Class Initialized
+INFO - 2022-11-23 14:16:28 --> Output Class Initialized
+INFO - 2022-11-23 14:16:28 --> Security Class Initialized
+DEBUG - 2022-11-23 14:16:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:16:28 --> Input Class Initialized
+INFO - 2022-11-23 14:16:28 --> Language Class Initialized
+INFO - 2022-11-23 14:16:28 --> Loader Class Initialized
+INFO - 2022-11-23 14:16:28 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:16:28 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:16:28 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:16:28 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:16:28 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:16:28 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:16:28 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:16:28 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:16:28 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:16:28 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:16:28 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:16:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:16:28 --> Pagination Class Initialized
+INFO - 2022-11-23 14:16:28 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:16:28 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:16:28 --> Email Class Initialized
+INFO - 2022-11-23 14:16:28 --> Upload Class Initialized
+INFO - 2022-11-23 14:16:28 --> Controller Class Initialized
+INFO - 2022-11-23 14:16:28 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:16:28 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:16:28 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:16:28 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:16:28 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:16:28 --> Model "Frontend_model" initialized
+DEBUG - 2022-11-23 14:16:28 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-11-23 14:16:28 --> Severity: Warning --> fsockopen(): unable to connect to localhost:25 (Cannot assign requested address) /public/system/libraries/Email.php 2061
+INFO - 2022-11-23 14:16:28 --> Language file loaded: language/english/email_lang.php
+INFO - 2022-11-23 14:16:29 --> Config Class Initialized
+INFO - 2022-11-23 14:16:29 --> Hooks Class Initialized
+INFO - 2022-11-23 14:16:29 --> Config Class Initialized
+INFO - 2022-11-23 14:16:29 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:16:29 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:16:29 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:16:29 --> URI Class Initialized
+DEBUG - 2022-11-23 14:16:29 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:16:29 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:16:29 --> Router Class Initialized
+INFO - 2022-11-23 14:16:29 --> URI Class Initialized
+INFO - 2022-11-23 14:16:29 --> Output Class Initialized
+INFO - 2022-11-23 14:16:29 --> Router Class Initialized
+INFO - 2022-11-23 14:16:29 --> Security Class Initialized
+INFO - 2022-11-23 14:16:29 --> Output Class Initialized
+DEBUG - 2022-11-23 14:16:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:16:29 --> Input Class Initialized
+INFO - 2022-11-23 14:16:29 --> Security Class Initialized
+INFO - 2022-11-23 14:16:29 --> Language Class Initialized
+DEBUG - 2022-11-23 14:16:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:16:29 --> Input Class Initialized
+INFO - 2022-11-23 14:16:29 --> Loader Class Initialized
+INFO - 2022-11-23 14:16:29 --> Language Class Initialized
+INFO - 2022-11-23 14:16:29 --> Helper loaded: url_helper
+ERROR - 2022-11-23 14:16:29 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:16:29 --> Final output sent to browser
+DEBUG - 2022-11-23 14:16:29 --> Total execution time: 0.1366
+INFO - 2022-11-23 14:16:29 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:16:29 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:16:29 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:16:29 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:16:29 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:16:29 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:16:29 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:16:29 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:16:29 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:16:29 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:16:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:16:29 --> Pagination Class Initialized
+INFO - 2022-11-23 14:16:29 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:16:29 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:16:29 --> Email Class Initialized
+INFO - 2022-11-23 14:16:29 --> Upload Class Initialized
+INFO - 2022-11-23 14:16:29 --> Controller Class Initialized
+INFO - 2022-11-23 14:16:29 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:16:29 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:16:29 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:16:29 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:16:29 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:16:29 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:16:29 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:16:29 --> Final output sent to browser
+DEBUG - 2022-11-23 14:16:29 --> Total execution time: 0.4576
+INFO - 2022-11-23 14:17:29 --> Config Class Initialized
+INFO - 2022-11-23 14:17:29 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:17:29 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:17:29 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:17:29 --> URI Class Initialized
+INFO - 2022-11-23 14:17:29 --> Router Class Initialized
+INFO - 2022-11-23 14:17:29 --> Output Class Initialized
+INFO - 2022-11-23 14:17:29 --> Security Class Initialized
+DEBUG - 2022-11-23 14:17:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:17:29 --> Input Class Initialized
+INFO - 2022-11-23 14:17:29 --> Language Class Initialized
+INFO - 2022-11-23 14:17:29 --> Loader Class Initialized
+INFO - 2022-11-23 14:17:29 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:17:29 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:17:29 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:17:29 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:17:29 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:17:29 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:17:29 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:17:29 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:17:29 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:17:29 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:17:29 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:17:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:17:29 --> Pagination Class Initialized
+INFO - 2022-11-23 14:17:29 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:17:29 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:17:29 --> Email Class Initialized
+INFO - 2022-11-23 14:17:29 --> Upload Class Initialized
+INFO - 2022-11-23 14:17:29 --> Controller Class Initialized
+INFO - 2022-11-23 14:17:29 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:17:29 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:17:29 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:17:29 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:17:29 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:17:29 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:17:29 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:17:29 --> Final output sent to browser
+DEBUG - 2022-11-23 14:17:29 --> Total execution time: 0.3947
+INFO - 2022-11-23 14:17:33 --> Config Class Initialized
+INFO - 2022-11-23 14:17:33 --> Config Class Initialized
+INFO - 2022-11-23 14:17:33 --> Hooks Class Initialized
+INFO - 2022-11-23 14:17:33 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:17:33 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:17:33 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:17:33 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:17:33 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:17:33 --> URI Class Initialized
+INFO - 2022-11-23 14:17:33 --> URI Class Initialized
+INFO - 2022-11-23 14:17:33 --> Router Class Initialized
+INFO - 2022-11-23 14:17:33 --> Router Class Initialized
+INFO - 2022-11-23 14:17:33 --> Output Class Initialized
+INFO - 2022-11-23 14:17:33 --> Output Class Initialized
+INFO - 2022-11-23 14:17:33 --> Security Class Initialized
+INFO - 2022-11-23 14:17:33 --> Security Class Initialized
+DEBUG - 2022-11-23 14:17:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:17:33 --> Input Class Initialized
+DEBUG - 2022-11-23 14:17:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:17:33 --> Input Class Initialized
+INFO - 2022-11-23 14:17:33 --> Language Class Initialized
+INFO - 2022-11-23 14:17:33 --> Language Class Initialized
+INFO - 2022-11-23 14:17:33 --> Loader Class Initialized
+ERROR - 2022-11-23 14:17:33 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:17:33 --> Final output sent to browser
+INFO - 2022-11-23 14:17:33 --> Helper loaded: url_helper
+DEBUG - 2022-11-23 14:17:33 --> Total execution time: 0.1126
+INFO - 2022-11-23 14:17:33 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:17:33 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:17:33 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:17:33 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:17:33 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:17:33 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:17:33 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:17:33 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:17:33 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:17:33 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:17:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:17:33 --> Pagination Class Initialized
+INFO - 2022-11-23 14:17:33 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:17:33 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:17:33 --> Email Class Initialized
+INFO - 2022-11-23 14:17:33 --> Upload Class Initialized
+INFO - 2022-11-23 14:17:33 --> Controller Class Initialized
+INFO - 2022-11-23 14:17:33 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:17:33 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:17:33 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:17:33 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:17:33 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:17:33 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:17:33 --> File loaded: /public/application/views/backend/admin/add_patient.php
+INFO - 2022-11-23 14:17:33 --> Final output sent to browser
+DEBUG - 2022-11-23 14:17:33 --> Total execution time: 0.3532
+INFO - 2022-11-23 14:18:21 --> Config Class Initialized
+INFO - 2022-11-23 14:18:21 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:18:21 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:18:21 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:18:21 --> URI Class Initialized
+INFO - 2022-11-23 14:18:21 --> Router Class Initialized
+INFO - 2022-11-23 14:18:21 --> Output Class Initialized
+INFO - 2022-11-23 14:18:21 --> Security Class Initialized
+DEBUG - 2022-11-23 14:18:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:18:21 --> Input Class Initialized
+INFO - 2022-11-23 14:18:21 --> Language Class Initialized
+INFO - 2022-11-23 14:18:21 --> Loader Class Initialized
+INFO - 2022-11-23 14:18:21 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:18:21 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:18:21 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:18:21 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:18:21 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:18:21 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:18:21 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:18:21 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:18:21 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:18:21 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:18:21 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:18:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:18:21 --> Pagination Class Initialized
+INFO - 2022-11-23 14:18:21 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:18:21 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:18:21 --> Email Class Initialized
+INFO - 2022-11-23 14:18:21 --> Upload Class Initialized
+INFO - 2022-11-23 14:18:21 --> Controller Class Initialized
+INFO - 2022-11-23 14:18:21 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:18:21 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:18:21 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:18:21 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:18:21 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:18:21 --> Model "Frontend_model" initialized
+DEBUG - 2022-11-23 14:18:21 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-11-23 14:18:21 --> Severity: Warning --> fsockopen(): unable to connect to localhost:25 (Cannot assign requested address) /public/system/libraries/Email.php 2061
+INFO - 2022-11-23 14:18:21 --> Language file loaded: language/english/email_lang.php
+INFO - 2022-11-23 14:18:22 --> Config Class Initialized
+INFO - 2022-11-23 14:18:22 --> Hooks Class Initialized
+INFO - 2022-11-23 14:18:22 --> Config Class Initialized
+INFO - 2022-11-23 14:18:22 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:18:22 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:18:22 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:18:22 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:18:22 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:18:22 --> URI Class Initialized
+INFO - 2022-11-23 14:18:22 --> URI Class Initialized
+INFO - 2022-11-23 14:18:22 --> Router Class Initialized
+INFO - 2022-11-23 14:18:22 --> Router Class Initialized
+INFO - 2022-11-23 14:18:22 --> Output Class Initialized
+INFO - 2022-11-23 14:18:22 --> Output Class Initialized
+INFO - 2022-11-23 14:18:22 --> Security Class Initialized
+INFO - 2022-11-23 14:18:22 --> Security Class Initialized
+DEBUG - 2022-11-23 14:18:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:18:22 --> Input Class Initialized
+DEBUG - 2022-11-23 14:18:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:18:22 --> Input Class Initialized
+INFO - 2022-11-23 14:18:22 --> Language Class Initialized
+INFO - 2022-11-23 14:18:22 --> Language Class Initialized
+INFO - 2022-11-23 14:18:22 --> Loader Class Initialized
+ERROR - 2022-11-23 14:18:22 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:18:22 --> Final output sent to browser
+INFO - 2022-11-23 14:18:22 --> Helper loaded: url_helper
+DEBUG - 2022-11-23 14:18:22 --> Total execution time: 0.1737
+INFO - 2022-11-23 14:18:22 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:18:22 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:18:22 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:18:22 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:18:22 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:18:22 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:18:22 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:18:22 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:18:22 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:18:22 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:18:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:18:22 --> Pagination Class Initialized
+INFO - 2022-11-23 14:18:22 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:18:22 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:18:22 --> Email Class Initialized
+INFO - 2022-11-23 14:18:22 --> Upload Class Initialized
+INFO - 2022-11-23 14:18:22 --> Controller Class Initialized
+INFO - 2022-11-23 14:18:22 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:18:22 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:18:22 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:18:22 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:18:22 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:18:22 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:18:22 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:18:22 --> Final output sent to browser
+DEBUG - 2022-11-23 14:18:22 --> Total execution time: 0.5055
+INFO - 2022-11-23 14:18:28 --> Config Class Initialized
+INFO - 2022-11-23 14:18:28 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:18:28 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:18:28 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:18:28 --> URI Class Initialized
+INFO - 2022-11-23 14:18:28 --> Router Class Initialized
+INFO - 2022-11-23 14:18:28 --> Output Class Initialized
+INFO - 2022-11-23 14:18:28 --> Security Class Initialized
+DEBUG - 2022-11-23 14:18:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:18:28 --> Input Class Initialized
+INFO - 2022-11-23 14:18:28 --> Language Class Initialized
+INFO - 2022-11-23 14:18:28 --> Loader Class Initialized
+INFO - 2022-11-23 14:18:28 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:18:28 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:18:28 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:18:28 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:18:28 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:18:28 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:18:28 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:18:28 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:18:28 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:18:28 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:18:28 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:18:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:18:28 --> Pagination Class Initialized
+INFO - 2022-11-23 14:18:28 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:18:28 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:18:28 --> Email Class Initialized
+INFO - 2022-11-23 14:18:28 --> Upload Class Initialized
+INFO - 2022-11-23 14:18:28 --> Controller Class Initialized
+INFO - 2022-11-23 14:18:28 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:18:28 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:18:28 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:18:28 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:18:28 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:18:28 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:18:28 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:18:28 --> Final output sent to browser
+DEBUG - 2022-11-23 14:18:28 --> Total execution time: 0.3967
+INFO - 2022-11-23 14:18:31 --> Config Class Initialized
+INFO - 2022-11-23 14:18:31 --> Hooks Class Initialized
+INFO - 2022-11-23 14:18:31 --> Config Class Initialized
+INFO - 2022-11-23 14:18:31 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:18:31 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:18:31 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:18:31 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:18:31 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:18:31 --> URI Class Initialized
+INFO - 2022-11-23 14:18:31 --> URI Class Initialized
+INFO - 2022-11-23 14:18:31 --> Router Class Initialized
+INFO - 2022-11-23 14:18:31 --> Router Class Initialized
+INFO - 2022-11-23 14:18:31 --> Output Class Initialized
+INFO - 2022-11-23 14:18:31 --> Output Class Initialized
+INFO - 2022-11-23 14:18:31 --> Security Class Initialized
+INFO - 2022-11-23 14:18:31 --> Security Class Initialized
+DEBUG - 2022-11-23 14:18:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:18:31 --> Input Class Initialized
+DEBUG - 2022-11-23 14:18:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:18:31 --> Input Class Initialized
+INFO - 2022-11-23 14:18:31 --> Language Class Initialized
+INFO - 2022-11-23 14:18:31 --> Language Class Initialized
+ERROR - 2022-11-23 14:18:31 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:18:31 --> Final output sent to browser
+INFO - 2022-11-23 14:18:31 --> Loader Class Initialized
+DEBUG - 2022-11-23 14:18:31 --> Total execution time: 0.1364
+INFO - 2022-11-23 14:18:31 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:18:31 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:18:31 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:18:31 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:18:31 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:18:31 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:18:31 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:18:31 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:18:31 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:18:31 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:18:31 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:18:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:18:31 --> Pagination Class Initialized
+INFO - 2022-11-23 14:18:31 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:18:31 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:18:31 --> Email Class Initialized
+INFO - 2022-11-23 14:18:31 --> Upload Class Initialized
+INFO - 2022-11-23 14:18:31 --> Controller Class Initialized
+INFO - 2022-11-23 14:18:31 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:18:31 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:18:31 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:18:31 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:18:31 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:18:31 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:18:31 --> File loaded: /public/application/views/backend/admin/add_nurse.php
+INFO - 2022-11-23 14:18:31 --> Final output sent to browser
+DEBUG - 2022-11-23 14:18:31 --> Total execution time: 0.3879
+INFO - 2022-11-23 14:18:54 --> Config Class Initialized
+INFO - 2022-11-23 14:18:54 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:18:54 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:18:54 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:18:54 --> URI Class Initialized
+INFO - 2022-11-23 14:18:54 --> Router Class Initialized
+INFO - 2022-11-23 14:18:54 --> Output Class Initialized
+INFO - 2022-11-23 14:18:54 --> Security Class Initialized
+DEBUG - 2022-11-23 14:18:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:18:54 --> Input Class Initialized
+INFO - 2022-11-23 14:18:54 --> Language Class Initialized
+INFO - 2022-11-23 14:18:54 --> Loader Class Initialized
+INFO - 2022-11-23 14:18:54 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:18:54 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:18:54 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:18:54 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:18:54 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:18:54 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:18:54 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:18:54 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:18:54 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:18:54 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:18:54 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:18:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:18:54 --> Pagination Class Initialized
+INFO - 2022-11-23 14:18:54 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:18:54 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:18:54 --> Email Class Initialized
+INFO - 2022-11-23 14:18:54 --> Upload Class Initialized
+INFO - 2022-11-23 14:18:54 --> Controller Class Initialized
+INFO - 2022-11-23 14:18:54 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:18:54 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:18:54 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:18:54 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:18:54 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:18:54 --> Model "Frontend_model" initialized
+DEBUG - 2022-11-23 14:18:54 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-11-23 14:18:54 --> Severity: Warning --> fsockopen(): unable to connect to localhost:25 (Cannot assign requested address) /public/system/libraries/Email.php 2061
+INFO - 2022-11-23 14:18:54 --> Language file loaded: language/english/email_lang.php
+INFO - 2022-11-23 14:18:54 --> Config Class Initialized
+INFO - 2022-11-23 14:18:54 --> Config Class Initialized
+INFO - 2022-11-23 14:18:54 --> Hooks Class Initialized
+INFO - 2022-11-23 14:18:54 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:18:55 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:18:55 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:18:55 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:18:55 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:18:55 --> URI Class Initialized
+INFO - 2022-11-23 14:18:55 --> URI Class Initialized
+INFO - 2022-11-23 14:18:55 --> Router Class Initialized
+INFO - 2022-11-23 14:18:55 --> Router Class Initialized
+INFO - 2022-11-23 14:18:55 --> Output Class Initialized
+INFO - 2022-11-23 14:18:55 --> Output Class Initialized
+INFO - 2022-11-23 14:18:55 --> Security Class Initialized
+INFO - 2022-11-23 14:18:55 --> Security Class Initialized
+DEBUG - 2022-11-23 14:18:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:18:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:18:55 --> Input Class Initialized
+INFO - 2022-11-23 14:18:55 --> Input Class Initialized
+INFO - 2022-11-23 14:18:55 --> Language Class Initialized
+INFO - 2022-11-23 14:18:55 --> Language Class Initialized
+ERROR - 2022-11-23 14:18:55 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:18:55 --> Loader Class Initialized
+INFO - 2022-11-23 14:18:55 --> Final output sent to browser
+DEBUG - 2022-11-23 14:18:55 --> Total execution time: 0.1579
+INFO - 2022-11-23 14:18:55 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:18:55 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:18:55 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:18:55 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:18:55 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:18:55 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:18:55 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:18:55 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:18:55 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:18:55 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:18:55 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:18:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:18:55 --> Pagination Class Initialized
+INFO - 2022-11-23 14:18:55 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:18:55 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:18:55 --> Email Class Initialized
+INFO - 2022-11-23 14:18:55 --> Upload Class Initialized
+INFO - 2022-11-23 14:18:55 --> Controller Class Initialized
+INFO - 2022-11-23 14:18:55 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:18:55 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:18:55 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:18:55 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:18:55 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:18:55 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:18:55 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:18:55 --> Final output sent to browser
+DEBUG - 2022-11-23 14:18:55 --> Total execution time: 0.4996
+INFO - 2022-11-23 14:18:58 --> Config Class Initialized
+INFO - 2022-11-23 14:18:58 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:18:58 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:18:58 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:18:58 --> URI Class Initialized
+INFO - 2022-11-23 14:18:58 --> Router Class Initialized
+INFO - 2022-11-23 14:18:58 --> Output Class Initialized
+INFO - 2022-11-23 14:18:58 --> Security Class Initialized
+DEBUG - 2022-11-23 14:18:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:18:58 --> Input Class Initialized
+INFO - 2022-11-23 14:18:58 --> Language Class Initialized
+INFO - 2022-11-23 14:18:58 --> Loader Class Initialized
+INFO - 2022-11-23 14:18:58 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:18:58 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:18:58 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:18:58 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:18:58 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:18:58 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:18:58 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:18:58 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:18:58 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:18:58 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:18:58 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:18:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:18:58 --> Pagination Class Initialized
+INFO - 2022-11-23 14:18:58 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:18:58 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:18:58 --> Email Class Initialized
+INFO - 2022-11-23 14:18:58 --> Upload Class Initialized
+INFO - 2022-11-23 14:18:58 --> Controller Class Initialized
+INFO - 2022-11-23 14:18:58 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:18:58 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:18:58 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:18:58 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:18:58 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:18:58 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:18:59 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:18:59 --> Final output sent to browser
+DEBUG - 2022-11-23 14:18:59 --> Total execution time: 0.4742
+INFO - 2022-11-23 14:19:01 --> Config Class Initialized
+INFO - 2022-11-23 14:19:01 --> Hooks Class Initialized
+INFO - 2022-11-23 14:19:01 --> Config Class Initialized
+INFO - 2022-11-23 14:19:01 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:19:01 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:01 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:19:01 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:01 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:01 --> URI Class Initialized
+INFO - 2022-11-23 14:19:01 --> URI Class Initialized
+INFO - 2022-11-23 14:19:01 --> Router Class Initialized
+INFO - 2022-11-23 14:19:01 --> Router Class Initialized
+INFO - 2022-11-23 14:19:01 --> Output Class Initialized
+INFO - 2022-11-23 14:19:01 --> Output Class Initialized
+INFO - 2022-11-23 14:19:01 --> Security Class Initialized
+INFO - 2022-11-23 14:19:01 --> Security Class Initialized
+DEBUG - 2022-11-23 14:19:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:01 --> Input Class Initialized
+DEBUG - 2022-11-23 14:19:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:01 --> Input Class Initialized
+INFO - 2022-11-23 14:19:01 --> Language Class Initialized
+INFO - 2022-11-23 14:19:01 --> Language Class Initialized
+INFO - 2022-11-23 14:19:01 --> Loader Class Initialized
+ERROR - 2022-11-23 14:19:01 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:19:01 --> Final output sent to browser
+INFO - 2022-11-23 14:19:01 --> Helper loaded: url_helper
+DEBUG - 2022-11-23 14:19:01 --> Total execution time: 0.1109
+INFO - 2022-11-23 14:19:01 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:19:01 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:19:01 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:19:01 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:19:01 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:19:01 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:19:01 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:19:01 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:19:01 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:19:01 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:19:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:19:01 --> Pagination Class Initialized
+INFO - 2022-11-23 14:19:01 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:19:01 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:19:01 --> Email Class Initialized
+INFO - 2022-11-23 14:19:01 --> Upload Class Initialized
+INFO - 2022-11-23 14:19:01 --> Controller Class Initialized
+INFO - 2022-11-23 14:19:01 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:19:01 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:19:01 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:19:01 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:19:01 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:19:01 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:19:01 --> File loaded: /public/application/views/backend/admin/add_pharmacist.php
+INFO - 2022-11-23 14:19:01 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:01 --> Total execution time: 0.3338
+INFO - 2022-11-23 14:19:15 --> Config Class Initialized
+INFO - 2022-11-23 14:19:15 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:19:15 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:15 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:15 --> URI Class Initialized
+INFO - 2022-11-23 14:19:15 --> Router Class Initialized
+INFO - 2022-11-23 14:19:15 --> Output Class Initialized
+INFO - 2022-11-23 14:19:15 --> Security Class Initialized
+DEBUG - 2022-11-23 14:19:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:15 --> Input Class Initialized
+INFO - 2022-11-23 14:19:15 --> Language Class Initialized
+INFO - 2022-11-23 14:19:15 --> Loader Class Initialized
+INFO - 2022-11-23 14:19:15 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:19:15 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:19:15 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:19:15 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:19:15 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:19:15 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:19:15 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:19:15 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:19:15 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:19:15 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:19:15 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:19:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:19:15 --> Pagination Class Initialized
+INFO - 2022-11-23 14:19:15 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:19:15 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:19:15 --> Email Class Initialized
+INFO - 2022-11-23 14:19:15 --> Upload Class Initialized
+INFO - 2022-11-23 14:19:15 --> Controller Class Initialized
+INFO - 2022-11-23 14:19:15 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:19:15 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:19:15 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:19:15 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:19:15 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:19:15 --> Model "Frontend_model" initialized
+DEBUG - 2022-11-23 14:19:15 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-11-23 14:19:15 --> Severity: Warning --> fsockopen(): unable to connect to localhost:25 (Cannot assign requested address) /public/system/libraries/Email.php 2061
+INFO - 2022-11-23 14:19:15 --> Language file loaded: language/english/email_lang.php
+INFO - 2022-11-23 14:19:16 --> Config Class Initialized
+INFO - 2022-11-23 14:19:16 --> Hooks Class Initialized
+INFO - 2022-11-23 14:19:16 --> Config Class Initialized
+INFO - 2022-11-23 14:19:16 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:19:16 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:16 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:19:16 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:16 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:16 --> URI Class Initialized
+INFO - 2022-11-23 14:19:16 --> URI Class Initialized
+INFO - 2022-11-23 14:19:16 --> Router Class Initialized
+INFO - 2022-11-23 14:19:16 --> Output Class Initialized
+INFO - 2022-11-23 14:19:16 --> Router Class Initialized
+INFO - 2022-11-23 14:19:16 --> Security Class Initialized
+INFO - 2022-11-23 14:19:16 --> Output Class Initialized
+DEBUG - 2022-11-23 14:19:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:16 --> Security Class Initialized
+INFO - 2022-11-23 14:19:16 --> Input Class Initialized
+INFO - 2022-11-23 14:19:16 --> Language Class Initialized
+DEBUG - 2022-11-23 14:19:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:16 --> Input Class Initialized
+INFO - 2022-11-23 14:19:16 --> Language Class Initialized
+INFO - 2022-11-23 14:19:16 --> Loader Class Initialized
+ERROR - 2022-11-23 14:19:16 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:19:16 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:19:16 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:16 --> Total execution time: 0.1941
+INFO - 2022-11-23 14:19:16 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:19:16 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:19:16 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:19:16 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:19:16 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:19:16 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:19:16 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:19:16 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:19:16 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:19:16 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:19:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:19:16 --> Pagination Class Initialized
+INFO - 2022-11-23 14:19:16 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:19:16 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:19:16 --> Email Class Initialized
+INFO - 2022-11-23 14:19:16 --> Upload Class Initialized
+INFO - 2022-11-23 14:19:16 --> Controller Class Initialized
+INFO - 2022-11-23 14:19:16 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:19:16 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:19:16 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:19:16 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:19:16 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:19:16 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:19:16 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:19:16 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:16 --> Total execution time: 0.5051
+INFO - 2022-11-23 14:19:18 --> Config Class Initialized
+INFO - 2022-11-23 14:19:18 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:19:18 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:18 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:18 --> URI Class Initialized
+INFO - 2022-11-23 14:19:18 --> Router Class Initialized
+INFO - 2022-11-23 14:19:18 --> Output Class Initialized
+INFO - 2022-11-23 14:19:18 --> Security Class Initialized
+DEBUG - 2022-11-23 14:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:18 --> Input Class Initialized
+INFO - 2022-11-23 14:19:18 --> Language Class Initialized
+INFO - 2022-11-23 14:19:18 --> Loader Class Initialized
+INFO - 2022-11-23 14:19:18 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:19:18 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:19:18 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:19:18 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:19:18 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:19:18 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:19:18 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:19:18 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:19:18 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:19:18 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:19:18 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:19:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:19:18 --> Pagination Class Initialized
+INFO - 2022-11-23 14:19:18 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:19:18 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:19:18 --> Email Class Initialized
+INFO - 2022-11-23 14:19:18 --> Upload Class Initialized
+INFO - 2022-11-23 14:19:18 --> Controller Class Initialized
+INFO - 2022-11-23 14:19:18 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:19:18 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:19:18 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:19:18 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:19:18 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:19:18 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:19:18 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:19:18 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:18 --> Total execution time: 0.4046
+INFO - 2022-11-23 14:19:20 --> Config Class Initialized
+INFO - 2022-11-23 14:19:20 --> Config Class Initialized
+INFO - 2022-11-23 14:19:20 --> Hooks Class Initialized
+INFO - 2022-11-23 14:19:20 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:19:20 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:19:20 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:20 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:20 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:20 --> URI Class Initialized
+INFO - 2022-11-23 14:19:20 --> URI Class Initialized
+INFO - 2022-11-23 14:19:20 --> Router Class Initialized
+INFO - 2022-11-23 14:19:20 --> Router Class Initialized
+INFO - 2022-11-23 14:19:20 --> Output Class Initialized
+INFO - 2022-11-23 14:19:20 --> Output Class Initialized
+INFO - 2022-11-23 14:19:20 --> Security Class Initialized
+INFO - 2022-11-23 14:19:20 --> Security Class Initialized
+DEBUG - 2022-11-23 14:19:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:19:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:20 --> Input Class Initialized
+INFO - 2022-11-23 14:19:20 --> Input Class Initialized
+INFO - 2022-11-23 14:19:20 --> Language Class Initialized
+INFO - 2022-11-23 14:19:20 --> Language Class Initialized
+INFO - 2022-11-23 14:19:20 --> Loader Class Initialized
+ERROR - 2022-11-23 14:19:20 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:19:20 --> Final output sent to browser
+INFO - 2022-11-23 14:19:20 --> Helper loaded: url_helper
+DEBUG - 2022-11-23 14:19:20 --> Total execution time: 0.1198
+INFO - 2022-11-23 14:19:20 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:19:20 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:19:20 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:19:20 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:19:20 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:19:20 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:19:20 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:19:20 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:19:20 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:19:20 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:19:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:19:20 --> Pagination Class Initialized
+INFO - 2022-11-23 14:19:20 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:19:20 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:19:20 --> Email Class Initialized
+INFO - 2022-11-23 14:19:20 --> Upload Class Initialized
+INFO - 2022-11-23 14:19:20 --> Controller Class Initialized
+INFO - 2022-11-23 14:19:20 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:19:20 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:19:20 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:19:20 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:19:20 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:19:20 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:19:20 --> File loaded: /public/application/views/backend/admin/add_laboratorist.php
+INFO - 2022-11-23 14:19:20 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:20 --> Total execution time: 0.3791
+INFO - 2022-11-23 14:19:29 --> Config Class Initialized
+INFO - 2022-11-23 14:19:29 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:19:29 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:29 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:29 --> URI Class Initialized
+INFO - 2022-11-23 14:19:29 --> Router Class Initialized
+INFO - 2022-11-23 14:19:29 --> Output Class Initialized
+INFO - 2022-11-23 14:19:29 --> Security Class Initialized
+DEBUG - 2022-11-23 14:19:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:29 --> Input Class Initialized
+INFO - 2022-11-23 14:19:29 --> Language Class Initialized
+INFO - 2022-11-23 14:19:29 --> Loader Class Initialized
+INFO - 2022-11-23 14:19:29 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:19:29 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:19:29 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:19:29 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:19:29 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:19:29 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:19:29 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:19:29 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:19:29 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:19:29 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:19:29 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:19:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:19:29 --> Pagination Class Initialized
+INFO - 2022-11-23 14:19:29 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:19:29 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:19:29 --> Email Class Initialized
+INFO - 2022-11-23 14:19:29 --> Upload Class Initialized
+INFO - 2022-11-23 14:19:29 --> Controller Class Initialized
+INFO - 2022-11-23 14:19:29 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:19:29 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:19:29 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:19:29 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:19:29 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:19:29 --> Model "Frontend_model" initialized
+DEBUG - 2022-11-23 14:19:29 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-11-23 14:19:29 --> Severity: Warning --> fsockopen(): unable to connect to localhost:25 (Cannot assign requested address) /public/system/libraries/Email.php 2061
+INFO - 2022-11-23 14:19:29 --> Language file loaded: language/english/email_lang.php
+INFO - 2022-11-23 14:19:30 --> Config Class Initialized
+INFO - 2022-11-23 14:19:30 --> Hooks Class Initialized
+INFO - 2022-11-23 14:19:30 --> Config Class Initialized
+INFO - 2022-11-23 14:19:30 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:19:30 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:19:30 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:30 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:30 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:30 --> URI Class Initialized
+INFO - 2022-11-23 14:19:30 --> URI Class Initialized
+INFO - 2022-11-23 14:19:30 --> Router Class Initialized
+INFO - 2022-11-23 14:19:30 --> Router Class Initialized
+INFO - 2022-11-23 14:19:30 --> Output Class Initialized
+INFO - 2022-11-23 14:19:30 --> Output Class Initialized
+INFO - 2022-11-23 14:19:30 --> Security Class Initialized
+INFO - 2022-11-23 14:19:30 --> Security Class Initialized
+DEBUG - 2022-11-23 14:19:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:19:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:30 --> Input Class Initialized
+INFO - 2022-11-23 14:19:30 --> Input Class Initialized
+INFO - 2022-11-23 14:19:30 --> Language Class Initialized
+INFO - 2022-11-23 14:19:30 --> Language Class Initialized
+ERROR - 2022-11-23 14:19:30 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:19:30 --> Loader Class Initialized
+INFO - 2022-11-23 14:19:30 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:30 --> Total execution time: 0.1456
+INFO - 2022-11-23 14:19:30 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:19:30 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:19:30 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:19:30 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:19:30 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:19:30 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:19:30 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:19:30 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:19:30 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:19:30 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:19:30 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:19:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:19:30 --> Pagination Class Initialized
+INFO - 2022-11-23 14:19:30 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:19:30 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:19:30 --> Email Class Initialized
+INFO - 2022-11-23 14:19:30 --> Upload Class Initialized
+INFO - 2022-11-23 14:19:30 --> Controller Class Initialized
+INFO - 2022-11-23 14:19:30 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:19:30 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:19:30 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:19:30 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:19:30 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:19:30 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:19:30 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:19:30 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:30 --> Total execution time: 0.4648
+INFO - 2022-11-23 14:19:37 --> Config Class Initialized
+INFO - 2022-11-23 14:19:37 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:19:37 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:37 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:37 --> URI Class Initialized
+INFO - 2022-11-23 14:19:37 --> Router Class Initialized
+INFO - 2022-11-23 14:19:37 --> Output Class Initialized
+INFO - 2022-11-23 14:19:37 --> Security Class Initialized
+DEBUG - 2022-11-23 14:19:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:37 --> Input Class Initialized
+INFO - 2022-11-23 14:19:37 --> Language Class Initialized
+INFO - 2022-11-23 14:19:37 --> Loader Class Initialized
+INFO - 2022-11-23 14:19:37 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:19:37 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:19:37 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:19:37 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:19:37 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:19:37 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:19:37 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:19:37 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:19:37 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:19:37 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:19:37 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:19:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:19:37 --> Pagination Class Initialized
+INFO - 2022-11-23 14:19:37 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:19:37 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:19:37 --> Email Class Initialized
+INFO - 2022-11-23 14:19:37 --> Upload Class Initialized
+INFO - 2022-11-23 14:19:37 --> Controller Class Initialized
+INFO - 2022-11-23 14:19:37 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:19:37 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:19:37 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:19:37 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:19:37 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:19:37 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:19:37 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:19:37 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:37 --> Total execution time: 0.3690
+INFO - 2022-11-23 14:19:38 --> Config Class Initialized
+INFO - 2022-11-23 14:19:38 --> Hooks Class Initialized
+INFO - 2022-11-23 14:19:38 --> Config Class Initialized
+INFO - 2022-11-23 14:19:38 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:19:38 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:38 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:19:38 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:38 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:38 --> URI Class Initialized
+INFO - 2022-11-23 14:19:38 --> URI Class Initialized
+INFO - 2022-11-23 14:19:38 --> Router Class Initialized
+INFO - 2022-11-23 14:19:38 --> Router Class Initialized
+INFO - 2022-11-23 14:19:38 --> Output Class Initialized
+INFO - 2022-11-23 14:19:38 --> Output Class Initialized
+INFO - 2022-11-23 14:19:38 --> Security Class Initialized
+INFO - 2022-11-23 14:19:38 --> Security Class Initialized
+DEBUG - 2022-11-23 14:19:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:38 --> Input Class Initialized
+DEBUG - 2022-11-23 14:19:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:38 --> Input Class Initialized
+INFO - 2022-11-23 14:19:38 --> Language Class Initialized
+INFO - 2022-11-23 14:19:38 --> Language Class Initialized
+ERROR - 2022-11-23 14:19:38 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:19:38 --> Loader Class Initialized
+INFO - 2022-11-23 14:19:38 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:38 --> Total execution time: 0.1099
+INFO - 2022-11-23 14:19:38 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:19:39 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:19:39 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:19:39 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:19:39 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:19:39 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:19:39 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:19:39 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:19:39 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:19:39 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:19:39 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:19:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:19:39 --> Pagination Class Initialized
+INFO - 2022-11-23 14:19:39 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:19:39 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:19:39 --> Email Class Initialized
+INFO - 2022-11-23 14:19:39 --> Upload Class Initialized
+INFO - 2022-11-23 14:19:39 --> Controller Class Initialized
+INFO - 2022-11-23 14:19:39 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:19:39 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:19:39 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:19:39 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:19:39 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:19:39 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:19:39 --> File loaded: /public/application/views/backend/admin/add_accountant.php
+INFO - 2022-11-23 14:19:39 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:39 --> Total execution time: 0.3873
+INFO - 2022-11-23 14:19:47 --> Config Class Initialized
+INFO - 2022-11-23 14:19:47 --> Config Class Initialized
+INFO - 2022-11-23 14:19:47 --> Hooks Class Initialized
+INFO - 2022-11-23 14:19:47 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:19:47 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:19:47 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:47 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:47 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:47 --> URI Class Initialized
+INFO - 2022-11-23 14:19:47 --> URI Class Initialized
+INFO - 2022-11-23 14:19:47 --> Router Class Initialized
+INFO - 2022-11-23 14:19:47 --> Router Class Initialized
+INFO - 2022-11-23 14:19:47 --> Output Class Initialized
+INFO - 2022-11-23 14:19:47 --> Output Class Initialized
+INFO - 2022-11-23 14:19:47 --> Security Class Initialized
+INFO - 2022-11-23 14:19:47 --> Security Class Initialized
+DEBUG - 2022-11-23 14:19:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:19:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:47 --> Input Class Initialized
+INFO - 2022-11-23 14:19:47 --> Input Class Initialized
+INFO - 2022-11-23 14:19:47 --> Language Class Initialized
+INFO - 2022-11-23 14:19:47 --> Language Class Initialized
+INFO - 2022-11-23 14:19:47 --> Loader Class Initialized
+ERROR - 2022-11-23 14:19:47 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:19:47 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:47 --> Total execution time: 0.1091
+INFO - 2022-11-23 14:19:47 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:19:47 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:19:47 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:19:47 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:19:47 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:19:47 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:19:47 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:19:47 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:19:47 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:19:47 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:19:47 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:19:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:19:47 --> Pagination Class Initialized
+INFO - 2022-11-23 14:19:47 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:19:47 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:19:48 --> Email Class Initialized
+INFO - 2022-11-23 14:19:48 --> Upload Class Initialized
+INFO - 2022-11-23 14:19:48 --> Controller Class Initialized
+INFO - 2022-11-23 14:19:48 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:19:48 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:19:48 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:19:48 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:19:48 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:19:48 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:19:48 --> File loaded: /public/application/views/backend/admin/add_accountant.php
+INFO - 2022-11-23 14:19:48 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:48 --> Total execution time: 0.3932
+INFO - 2022-11-23 14:19:54 --> Config Class Initialized
+INFO - 2022-11-23 14:19:54 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:19:54 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:54 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:54 --> URI Class Initialized
+INFO - 2022-11-23 14:19:54 --> Router Class Initialized
+INFO - 2022-11-23 14:19:54 --> Output Class Initialized
+INFO - 2022-11-23 14:19:54 --> Security Class Initialized
+DEBUG - 2022-11-23 14:19:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:54 --> Input Class Initialized
+INFO - 2022-11-23 14:19:54 --> Language Class Initialized
+INFO - 2022-11-23 14:19:54 --> Loader Class Initialized
+INFO - 2022-11-23 14:19:54 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:19:54 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:19:54 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:19:54 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:19:54 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:19:54 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:19:54 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:19:54 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:19:54 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:19:54 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:19:54 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:19:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:19:54 --> Pagination Class Initialized
+INFO - 2022-11-23 14:19:55 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:19:55 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:19:55 --> Email Class Initialized
+INFO - 2022-11-23 14:19:55 --> Upload Class Initialized
+INFO - 2022-11-23 14:19:55 --> Controller Class Initialized
+INFO - 2022-11-23 14:19:55 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:19:55 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:19:55 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:19:55 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:19:55 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:19:55 --> Model "Frontend_model" initialized
+DEBUG - 2022-11-23 14:19:55 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-11-23 14:19:55 --> Severity: Warning --> fsockopen(): unable to connect to localhost:25 (Cannot assign requested address) /public/system/libraries/Email.php 2061
+INFO - 2022-11-23 14:19:55 --> Language file loaded: language/english/email_lang.php
+INFO - 2022-11-23 14:19:55 --> Config Class Initialized
+INFO - 2022-11-23 14:19:55 --> Hooks Class Initialized
+INFO - 2022-11-23 14:19:55 --> Config Class Initialized
+INFO - 2022-11-23 14:19:55 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:19:55 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:55 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:19:55 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:55 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:55 --> URI Class Initialized
+INFO - 2022-11-23 14:19:55 --> URI Class Initialized
+INFO - 2022-11-23 14:19:55 --> Router Class Initialized
+INFO - 2022-11-23 14:19:55 --> Router Class Initialized
+INFO - 2022-11-23 14:19:55 --> Output Class Initialized
+INFO - 2022-11-23 14:19:55 --> Output Class Initialized
+INFO - 2022-11-23 14:19:55 --> Security Class Initialized
+INFO - 2022-11-23 14:19:55 --> Security Class Initialized
+DEBUG - 2022-11-23 14:19:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:19:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:55 --> Input Class Initialized
+INFO - 2022-11-23 14:19:55 --> Input Class Initialized
+INFO - 2022-11-23 14:19:55 --> Language Class Initialized
+INFO - 2022-11-23 14:19:55 --> Language Class Initialized
+INFO - 2022-11-23 14:19:55 --> Loader Class Initialized
+ERROR - 2022-11-23 14:19:55 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:19:55 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:55 --> Total execution time: 0.1899
+INFO - 2022-11-23 14:19:55 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:19:55 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:19:55 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:19:55 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:19:55 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:19:55 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:19:55 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:19:55 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:19:55 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:19:55 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:19:55 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:19:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:19:55 --> Pagination Class Initialized
+INFO - 2022-11-23 14:19:55 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:19:55 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:19:55 --> Email Class Initialized
+INFO - 2022-11-23 14:19:55 --> Upload Class Initialized
+INFO - 2022-11-23 14:19:55 --> Controller Class Initialized
+INFO - 2022-11-23 14:19:55 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:19:56 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:19:56 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:19:56 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:19:56 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:19:56 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:19:56 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:19:56 --> Final output sent to browser
+DEBUG - 2022-11-23 14:19:56 --> Total execution time: 0.5270
+INFO - 2022-11-23 14:19:59 --> Config Class Initialized
+INFO - 2022-11-23 14:19:59 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:19:59 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:19:59 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:19:59 --> URI Class Initialized
+INFO - 2022-11-23 14:19:59 --> Router Class Initialized
+INFO - 2022-11-23 14:19:59 --> Output Class Initialized
+INFO - 2022-11-23 14:19:59 --> Security Class Initialized
+DEBUG - 2022-11-23 14:19:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:19:59 --> Input Class Initialized
+INFO - 2022-11-23 14:19:59 --> Language Class Initialized
+INFO - 2022-11-23 14:19:59 --> Loader Class Initialized
+INFO - 2022-11-23 14:19:59 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:19:59 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:19:59 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:19:59 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:19:59 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:19:59 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:19:59 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:19:59 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:19:59 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:19:59 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:19:59 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:19:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:19:59 --> Pagination Class Initialized
+INFO - 2022-11-23 14:19:59 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:19:59 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:19:59 --> Email Class Initialized
+INFO - 2022-11-23 14:19:59 --> Upload Class Initialized
+INFO - 2022-11-23 14:19:59 --> Controller Class Initialized
+INFO - 2022-11-23 14:19:59 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:19:59 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:19:59 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:19:59 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:19:59 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:19:59 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:20:00 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:20:00 --> Final output sent to browser
+DEBUG - 2022-11-23 14:20:00 --> Total execution time: 0.3987
+INFO - 2022-11-23 14:20:02 --> Config Class Initialized
+INFO - 2022-11-23 14:20:02 --> Hooks Class Initialized
+INFO - 2022-11-23 14:20:02 --> Config Class Initialized
+INFO - 2022-11-23 14:20:02 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:20:02 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:20:02 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:20:02 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:20:02 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:20:02 --> URI Class Initialized
+INFO - 2022-11-23 14:20:02 --> URI Class Initialized
+INFO - 2022-11-23 14:20:02 --> Router Class Initialized
+INFO - 2022-11-23 14:20:02 --> Router Class Initialized
+INFO - 2022-11-23 14:20:02 --> Output Class Initialized
+INFO - 2022-11-23 14:20:02 --> Output Class Initialized
+INFO - 2022-11-23 14:20:02 --> Security Class Initialized
+INFO - 2022-11-23 14:20:02 --> Security Class Initialized
+DEBUG - 2022-11-23 14:20:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:20:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:20:02 --> Input Class Initialized
+INFO - 2022-11-23 14:20:02 --> Input Class Initialized
+INFO - 2022-11-23 14:20:02 --> Language Class Initialized
+INFO - 2022-11-23 14:20:02 --> Language Class Initialized
+INFO - 2022-11-23 14:20:02 --> Loader Class Initialized
+ERROR - 2022-11-23 14:20:02 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:20:02 --> Final output sent to browser
+INFO - 2022-11-23 14:20:02 --> Helper loaded: url_helper
+DEBUG - 2022-11-23 14:20:02 --> Total execution time: 0.1456
+INFO - 2022-11-23 14:20:02 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:20:02 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:20:02 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:20:02 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:20:02 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:20:02 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:20:02 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:20:02 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:20:02 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:20:02 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:20:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:20:02 --> Pagination Class Initialized
+INFO - 2022-11-23 14:20:02 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:20:02 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:20:02 --> Email Class Initialized
+INFO - 2022-11-23 14:20:02 --> Upload Class Initialized
+INFO - 2022-11-23 14:20:02 --> Controller Class Initialized
+INFO - 2022-11-23 14:20:02 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:20:02 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:20:02 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:20:02 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:20:02 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:20:02 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:20:02 --> File loaded: /public/application/views/backend/admin/add_receptionist.php
+INFO - 2022-11-23 14:20:02 --> Final output sent to browser
+DEBUG - 2022-11-23 14:20:02 --> Total execution time: 0.3932
+INFO - 2022-11-23 14:20:13 --> Config Class Initialized
+INFO - 2022-11-23 14:20:13 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:20:13 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:20:13 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:20:13 --> URI Class Initialized
+INFO - 2022-11-23 14:20:13 --> Router Class Initialized
+INFO - 2022-11-23 14:20:13 --> Output Class Initialized
+INFO - 2022-11-23 14:20:13 --> Security Class Initialized
+DEBUG - 2022-11-23 14:20:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:20:13 --> Input Class Initialized
+INFO - 2022-11-23 14:20:13 --> Language Class Initialized
+INFO - 2022-11-23 14:20:13 --> Loader Class Initialized
+INFO - 2022-11-23 14:20:13 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:20:13 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:20:13 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:20:13 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:20:13 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:20:13 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:20:13 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:20:13 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:20:13 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:20:13 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:20:13 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:20:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:20:13 --> Pagination Class Initialized
+INFO - 2022-11-23 14:20:13 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:20:13 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:20:13 --> Email Class Initialized
+INFO - 2022-11-23 14:20:13 --> Upload Class Initialized
+INFO - 2022-11-23 14:20:13 --> Controller Class Initialized
+INFO - 2022-11-23 14:20:13 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:20:13 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:20:13 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:20:13 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:20:13 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:20:13 --> Model "Frontend_model" initialized
+DEBUG - 2022-11-23 14:20:13 --> Email class already loaded. Second attempt ignored.
+ERROR - 2022-11-23 14:20:13 --> Severity: Warning --> fsockopen(): unable to connect to localhost:25 (Cannot assign requested address) /public/system/libraries/Email.php 2061
+INFO - 2022-11-23 14:20:13 --> Language file loaded: language/english/email_lang.php
+INFO - 2022-11-23 14:20:13 --> Config Class Initialized
+INFO - 2022-11-23 14:20:13 --> Hooks Class Initialized
+INFO - 2022-11-23 14:20:13 --> Config Class Initialized
+INFO - 2022-11-23 14:20:13 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:20:13 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:20:14 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:20:14 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:20:14 --> URI Class Initialized
+INFO - 2022-11-23 14:20:14 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:20:14 --> URI Class Initialized
+INFO - 2022-11-23 14:20:14 --> Router Class Initialized
+INFO - 2022-11-23 14:20:14 --> Output Class Initialized
+INFO - 2022-11-23 14:20:14 --> Router Class Initialized
+INFO - 2022-11-23 14:20:14 --> Security Class Initialized
+INFO - 2022-11-23 14:20:14 --> Output Class Initialized
+DEBUG - 2022-11-23 14:20:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:20:14 --> Security Class Initialized
+INFO - 2022-11-23 14:20:14 --> Input Class Initialized
+DEBUG - 2022-11-23 14:20:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:20:14 --> Language Class Initialized
+INFO - 2022-11-23 14:20:14 --> Input Class Initialized
+INFO - 2022-11-23 14:20:14 --> Language Class Initialized
+INFO - 2022-11-23 14:20:14 --> Loader Class Initialized
+INFO - 2022-11-23 14:20:14 --> Helper loaded: url_helper
+ERROR - 2022-11-23 14:20:14 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:20:14 --> Final output sent to browser
+DEBUG - 2022-11-23 14:20:14 --> Total execution time: 0.1791
+INFO - 2022-11-23 14:20:14 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:20:14 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:20:14 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:20:14 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:20:14 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:20:14 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:20:14 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:20:14 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:20:14 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:20:14 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:20:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:20:14 --> Pagination Class Initialized
+INFO - 2022-11-23 14:20:14 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:20:14 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:20:14 --> Email Class Initialized
+INFO - 2022-11-23 14:20:14 --> Upload Class Initialized
+INFO - 2022-11-23 14:20:14 --> Controller Class Initialized
+INFO - 2022-11-23 14:20:14 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:20:14 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:20:14 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:20:14 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:20:14 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:20:14 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:20:14 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:20:14 --> Final output sent to browser
+DEBUG - 2022-11-23 14:20:14 --> Total execution time: 0.4754
+INFO - 2022-11-23 14:21:14 --> Config Class Initialized
+INFO - 2022-11-23 14:21:14 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:21:14 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:21:14 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:21:14 --> URI Class Initialized
+INFO - 2022-11-23 14:21:14 --> Router Class Initialized
+INFO - 2022-11-23 14:21:14 --> Output Class Initialized
+INFO - 2022-11-23 14:21:14 --> Security Class Initialized
+DEBUG - 2022-11-23 14:21:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:21:14 --> Input Class Initialized
+INFO - 2022-11-23 14:21:14 --> Language Class Initialized
+INFO - 2022-11-23 14:21:14 --> Loader Class Initialized
+INFO - 2022-11-23 14:21:14 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:21:14 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:21:14 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:21:14 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:21:14 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:21:14 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:21:14 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:21:14 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:21:14 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:21:14 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:21:14 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:21:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:21:14 --> Pagination Class Initialized
+INFO - 2022-11-23 14:21:14 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:21:14 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:21:14 --> Email Class Initialized
+INFO - 2022-11-23 14:21:14 --> Upload Class Initialized
+INFO - 2022-11-23 14:21:14 --> Controller Class Initialized
+INFO - 2022-11-23 14:21:14 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:21:14 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:21:14 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:21:14 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:21:14 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:21:14 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:21:14 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:21:14 --> Final output sent to browser
+DEBUG - 2022-11-23 14:21:14 --> Total execution time: 0.3768
+INFO - 2022-11-23 14:21:24 --> Config Class Initialized
+INFO - 2022-11-23 14:21:24 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:21:24 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:21:24 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:21:24 --> URI Class Initialized
+INFO - 2022-11-23 14:21:24 --> Router Class Initialized
+INFO - 2022-11-23 14:21:24 --> Output Class Initialized
+INFO - 2022-11-23 14:21:24 --> Security Class Initialized
+DEBUG - 2022-11-23 14:21:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:21:24 --> Input Class Initialized
+INFO - 2022-11-23 14:21:24 --> Language Class Initialized
+INFO - 2022-11-23 14:21:24 --> Loader Class Initialized
+INFO - 2022-11-23 14:21:24 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:21:24 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:21:24 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:21:24 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:21:24 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:21:24 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:21:24 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:21:24 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:21:24 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:21:24 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:21:24 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:21:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:21:24 --> Pagination Class Initialized
+INFO - 2022-11-23 14:21:24 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:21:24 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:21:24 --> Email Class Initialized
+INFO - 2022-11-23 14:21:24 --> Upload Class Initialized
+INFO - 2022-11-23 14:21:24 --> Controller Class Initialized
+INFO - 2022-11-23 14:21:24 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:21:24 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:21:24 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:21:24 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:21:24 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:21:24 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:21:24 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:21:24 --> Final output sent to browser
+DEBUG - 2022-11-23 14:21:24 --> Total execution time: 0.4168
+INFO - 2022-11-23 14:21:32 --> Config Class Initialized
+INFO - 2022-11-23 14:21:32 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:21:32 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:21:32 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:21:32 --> URI Class Initialized
+INFO - 2022-11-23 14:21:32 --> Router Class Initialized
+INFO - 2022-11-23 14:21:32 --> Output Class Initialized
+INFO - 2022-11-23 14:21:32 --> Security Class Initialized
+DEBUG - 2022-11-23 14:21:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:21:32 --> Input Class Initialized
+INFO - 2022-11-23 14:21:32 --> Language Class Initialized
+INFO - 2022-11-23 14:21:32 --> Loader Class Initialized
+INFO - 2022-11-23 14:21:32 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:21:32 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:21:32 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:21:32 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:21:32 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:21:32 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:21:32 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:21:32 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:21:32 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:21:32 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:21:32 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:21:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:21:32 --> Pagination Class Initialized
+INFO - 2022-11-23 14:21:32 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:21:32 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:21:32 --> Email Class Initialized
+INFO - 2022-11-23 14:21:32 --> Upload Class Initialized
+INFO - 2022-11-23 14:21:32 --> Controller Class Initialized
+INFO - 2022-11-23 14:21:32 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:21:32 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:21:32 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:21:32 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:21:32 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:21:32 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:21:33 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:21:33 --> Final output sent to browser
+DEBUG - 2022-11-23 14:21:33 --> Total execution time: 0.4521
+INFO - 2022-11-23 14:21:56 --> Config Class Initialized
+INFO - 2022-11-23 14:21:56 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:21:56 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:21:56 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:21:56 --> URI Class Initialized
+INFO - 2022-11-23 14:21:56 --> Router Class Initialized
+INFO - 2022-11-23 14:21:56 --> Output Class Initialized
+INFO - 2022-11-23 14:21:56 --> Security Class Initialized
+DEBUG - 2022-11-23 14:21:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:21:56 --> Input Class Initialized
+INFO - 2022-11-23 14:21:56 --> Language Class Initialized
+INFO - 2022-11-23 14:21:56 --> Loader Class Initialized
+INFO - 2022-11-23 14:21:56 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:21:56 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:21:56 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:21:56 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:21:56 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:21:56 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:21:56 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:21:56 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:21:56 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:21:56 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:21:56 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:21:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:21:56 --> Pagination Class Initialized
+INFO - 2022-11-23 14:21:56 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:21:56 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:21:56 --> Email Class Initialized
+INFO - 2022-11-23 14:21:56 --> Upload Class Initialized
+INFO - 2022-11-23 14:21:56 --> Controller Class Initialized
+INFO - 2022-11-23 14:21:56 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:21:56 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:21:56 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:21:56 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:21:56 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:21:56 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:21:56 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:21:56 --> Final output sent to browser
+DEBUG - 2022-11-23 14:21:56 --> Total execution time: 0.3960
+INFO - 2022-11-23 14:21:59 --> Config Class Initialized
+INFO - 2022-11-23 14:21:59 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:21:59 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:21:59 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:21:59 --> URI Class Initialized
+INFO - 2022-11-23 14:21:59 --> Router Class Initialized
+INFO - 2022-11-23 14:21:59 --> Output Class Initialized
+INFO - 2022-11-23 14:21:59 --> Security Class Initialized
+DEBUG - 2022-11-23 14:21:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:21:59 --> Input Class Initialized
+INFO - 2022-11-23 14:21:59 --> Language Class Initialized
+INFO - 2022-11-23 14:21:59 --> Loader Class Initialized
+INFO - 2022-11-23 14:21:59 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:21:59 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:21:59 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:21:59 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:21:59 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:21:59 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:21:59 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:21:59 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:21:59 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:21:59 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:21:59 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:21:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:21:59 --> Pagination Class Initialized
+INFO - 2022-11-23 14:21:59 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:21:59 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:21:59 --> Email Class Initialized
+INFO - 2022-11-23 14:21:59 --> Upload Class Initialized
+INFO - 2022-11-23 14:21:59 --> Controller Class Initialized
+INFO - 2022-11-23 14:21:59 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:21:59 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:21:59 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:21:59 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:21:59 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:21:59 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:21:59 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:21:59 --> Final output sent to browser
+DEBUG - 2022-11-23 14:21:59 --> Total execution time: 0.3883
+INFO - 2022-11-23 14:22:02 --> Config Class Initialized
+INFO - 2022-11-23 14:22:02 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:22:02 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:22:02 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:22:02 --> URI Class Initialized
+INFO - 2022-11-23 14:22:02 --> Router Class Initialized
+INFO - 2022-11-23 14:22:02 --> Output Class Initialized
+INFO - 2022-11-23 14:22:02 --> Security Class Initialized
+DEBUG - 2022-11-23 14:22:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:22:02 --> Input Class Initialized
+INFO - 2022-11-23 14:22:02 --> Language Class Initialized
+INFO - 2022-11-23 14:22:02 --> Loader Class Initialized
+INFO - 2022-11-23 14:22:02 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:22:02 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:22:02 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:22:02 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:22:02 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:22:02 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:22:02 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:22:02 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:22:02 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:22:02 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:22:02 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:22:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:22:02 --> Pagination Class Initialized
+INFO - 2022-11-23 14:22:02 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:22:02 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:22:02 --> Email Class Initialized
+INFO - 2022-11-23 14:22:02 --> Upload Class Initialized
+INFO - 2022-11-23 14:22:02 --> Controller Class Initialized
+INFO - 2022-11-23 14:22:02 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:22:02 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:22:02 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:22:02 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:22:02 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:22:02 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:22:02 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:22:02 --> Final output sent to browser
+DEBUG - 2022-11-23 14:22:02 --> Total execution time: 0.4088
+INFO - 2022-11-23 14:22:32 --> Config Class Initialized
+INFO - 2022-11-23 14:22:32 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:22:32 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:22:32 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:22:32 --> URI Class Initialized
+INFO - 2022-11-23 14:22:32 --> Router Class Initialized
+INFO - 2022-11-23 14:22:32 --> Output Class Initialized
+INFO - 2022-11-23 14:22:32 --> Security Class Initialized
+DEBUG - 2022-11-23 14:22:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:22:32 --> Input Class Initialized
+INFO - 2022-11-23 14:22:32 --> Language Class Initialized
+INFO - 2022-11-23 14:22:32 --> Loader Class Initialized
+INFO - 2022-11-23 14:22:32 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:22:32 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:22:32 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:22:32 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:22:32 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:22:32 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:22:32 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:22:32 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:22:32 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:22:32 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:22:32 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:22:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:22:32 --> Pagination Class Initialized
+INFO - 2022-11-23 14:22:32 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:22:32 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:22:32 --> Email Class Initialized
+INFO - 2022-11-23 14:22:32 --> Upload Class Initialized
+INFO - 2022-11-23 14:22:32 --> Controller Class Initialized
+INFO - 2022-11-23 14:22:32 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:22:32 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:22:32 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:22:32 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:22:33 --> Config Class Initialized
+INFO - 2022-11-23 14:22:33 --> Config Class Initialized
+INFO - 2022-11-23 14:22:33 --> Hooks Class Initialized
+INFO - 2022-11-23 14:22:33 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:22:33 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:22:33 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:22:33 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:22:33 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:22:33 --> URI Class Initialized
+INFO - 2022-11-23 14:22:33 --> URI Class Initialized
+INFO - 2022-11-23 14:22:33 --> Router Class Initialized
+INFO - 2022-11-23 14:22:33 --> Router Class Initialized
+INFO - 2022-11-23 14:22:33 --> Output Class Initialized
+INFO - 2022-11-23 14:22:33 --> Output Class Initialized
+INFO - 2022-11-23 14:22:33 --> Security Class Initialized
+INFO - 2022-11-23 14:22:33 --> Security Class Initialized
+DEBUG - 2022-11-23 14:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:22:33 --> Input Class Initialized
+DEBUG - 2022-11-23 14:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:22:33 --> Input Class Initialized
+INFO - 2022-11-23 14:22:33 --> Language Class Initialized
+INFO - 2022-11-23 14:22:33 --> Language Class Initialized
+INFO - 2022-11-23 14:22:33 --> Loader Class Initialized
+ERROR - 2022-11-23 14:22:33 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:22:33 --> Final output sent to browser
+DEBUG - 2022-11-23 14:22:33 --> Total execution time: 0.2662
+INFO - 2022-11-23 14:22:33 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:22:33 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:22:33 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:22:33 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:22:33 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:22:33 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:22:33 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:22:33 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:22:33 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:22:33 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:22:33 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:22:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:22:33 --> Pagination Class Initialized
+INFO - 2022-11-23 14:22:33 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:22:33 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:22:33 --> Email Class Initialized
+INFO - 2022-11-23 14:22:33 --> Upload Class Initialized
+INFO - 2022-11-23 14:22:33 --> Controller Class Initialized
+INFO - 2022-11-23 14:22:33 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:22:33 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:22:33 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:22:33 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:22:33 --> File loaded: /public/application/views/backend/login.php
+INFO - 2022-11-23 14:22:33 --> Final output sent to browser
+DEBUG - 2022-11-23 14:22:33 --> Total execution time: 0.6528
+INFO - 2022-11-23 14:22:47 --> Config Class Initialized
+INFO - 2022-11-23 14:22:47 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:22:47 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:22:47 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:22:47 --> URI Class Initialized
+INFO - 2022-11-23 14:22:47 --> Router Class Initialized
+INFO - 2022-11-23 14:22:47 --> Output Class Initialized
+INFO - 2022-11-23 14:22:47 --> Security Class Initialized
+DEBUG - 2022-11-23 14:22:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:22:47 --> Input Class Initialized
+INFO - 2022-11-23 14:22:47 --> Language Class Initialized
+INFO - 2022-11-23 14:22:47 --> Loader Class Initialized
+INFO - 2022-11-23 14:22:47 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:22:47 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:22:47 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:22:47 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:22:47 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:22:47 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:22:47 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:22:47 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:22:47 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:22:47 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:22:47 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:22:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:22:47 --> Pagination Class Initialized
+INFO - 2022-11-23 14:22:47 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:22:47 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:22:47 --> Email Class Initialized
+INFO - 2022-11-23 14:22:47 --> Upload Class Initialized
+INFO - 2022-11-23 14:22:47 --> Controller Class Initialized
+INFO - 2022-11-23 14:22:47 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:22:47 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:22:47 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:22:47 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:22:47 --> File loaded: /public/application/views/backend/login.php
+INFO - 2022-11-23 14:22:47 --> Final output sent to browser
+DEBUG - 2022-11-23 14:22:47 --> Total execution time: 0.3602
+INFO - 2022-11-23 14:23:22 --> Config Class Initialized
+INFO - 2022-11-23 14:23:22 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:23:22 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:23:22 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:23:22 --> URI Class Initialized
+INFO - 2022-11-23 14:23:22 --> Router Class Initialized
+INFO - 2022-11-23 14:23:22 --> Output Class Initialized
+INFO - 2022-11-23 14:23:22 --> Security Class Initialized
+DEBUG - 2022-11-23 14:23:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:23:22 --> Input Class Initialized
+INFO - 2022-11-23 14:23:22 --> Language Class Initialized
+INFO - 2022-11-23 14:23:22 --> Loader Class Initialized
+INFO - 2022-11-23 14:23:22 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:23:22 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:23:22 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:23:22 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:23:22 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:23:22 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:23:22 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:23:22 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:23:22 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:23:22 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:23:22 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:23:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:23:22 --> Pagination Class Initialized
+INFO - 2022-11-23 14:23:22 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:23:22 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:23:22 --> Email Class Initialized
+INFO - 2022-11-23 14:23:22 --> Upload Class Initialized
+INFO - 2022-11-23 14:23:22 --> Controller Class Initialized
+INFO - 2022-11-23 14:23:22 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:23:22 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:23:22 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:23:22 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:23:23 --> Config Class Initialized
+INFO - 2022-11-23 14:23:23 --> Hooks Class Initialized
+INFO - 2022-11-23 14:23:23 --> Config Class Initialized
+INFO - 2022-11-23 14:23:23 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:23:23 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:23:23 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:23:23 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:23:23 --> URI Class Initialized
+INFO - 2022-11-23 14:23:23 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:23:23 --> URI Class Initialized
+INFO - 2022-11-23 14:23:23 --> Router Class Initialized
+INFO - 2022-11-23 14:23:23 --> Output Class Initialized
+INFO - 2022-11-23 14:23:23 --> Router Class Initialized
+INFO - 2022-11-23 14:23:23 --> Security Class Initialized
+INFO - 2022-11-23 14:23:23 --> Output Class Initialized
+DEBUG - 2022-11-23 14:23:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:23:23 --> Input Class Initialized
+INFO - 2022-11-23 14:23:23 --> Security Class Initialized
+INFO - 2022-11-23 14:23:23 --> Language Class Initialized
+DEBUG - 2022-11-23 14:23:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:23:23 --> Input Class Initialized
+INFO - 2022-11-23 14:23:23 --> Loader Class Initialized
+INFO - 2022-11-23 14:23:23 --> Language Class Initialized
+INFO - 2022-11-23 14:23:23 --> Helper loaded: url_helper
+ERROR - 2022-11-23 14:23:23 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:23:23 --> Final output sent to browser
+INFO - 2022-11-23 14:23:23 --> Helper loaded: file_helper
+DEBUG - 2022-11-23 14:23:23 --> Total execution time: 0.1629
+INFO - 2022-11-23 14:23:23 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:23:23 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:23:23 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:23:23 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:23:23 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:23:23 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:23:23 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:23:23 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:23:23 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:23:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:23:23 --> Pagination Class Initialized
+INFO - 2022-11-23 14:23:23 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:23:23 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:23:23 --> Email Class Initialized
+INFO - 2022-11-23 14:23:23 --> Upload Class Initialized
+INFO - 2022-11-23 14:23:23 --> Controller Class Initialized
+INFO - 2022-11-23 14:23:23 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:23:23 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:23:23 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:23:23 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:23:23 --> Config Class Initialized
+INFO - 2022-11-23 14:23:23 --> Config Class Initialized
+INFO - 2022-11-23 14:23:23 --> Hooks Class Initialized
+INFO - 2022-11-23 14:23:23 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:23:23 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:23:23 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:23:23 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:23:23 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:23:23 --> URI Class Initialized
+INFO - 2022-11-23 14:23:23 --> URI Class Initialized
+INFO - 2022-11-23 14:23:24 --> Router Class Initialized
+INFO - 2022-11-23 14:23:24 --> Router Class Initialized
+INFO - 2022-11-23 14:23:24 --> Output Class Initialized
+INFO - 2022-11-23 14:23:24 --> Output Class Initialized
+INFO - 2022-11-23 14:23:24 --> Security Class Initialized
+INFO - 2022-11-23 14:23:24 --> Security Class Initialized
+DEBUG - 2022-11-23 14:23:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:23:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:23:24 --> Input Class Initialized
+INFO - 2022-11-23 14:23:24 --> Input Class Initialized
+INFO - 2022-11-23 14:23:24 --> Language Class Initialized
+INFO - 2022-11-23 14:23:24 --> Language Class Initialized
+INFO - 2022-11-23 14:23:24 --> Loader Class Initialized
+ERROR - 2022-11-23 14:23:24 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:23:24 --> Final output sent to browser
+DEBUG - 2022-11-23 14:23:24 --> Total execution time: 0.1495
+INFO - 2022-11-23 14:23:24 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:23:24 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:23:24 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:23:24 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:23:24 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:23:24 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:23:24 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:23:24 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:23:24 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:23:24 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:23:24 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:23:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:23:24 --> Pagination Class Initialized
+INFO - 2022-11-23 14:23:24 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:23:24 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:23:24 --> Email Class Initialized
+INFO - 2022-11-23 14:23:24 --> Upload Class Initialized
+INFO - 2022-11-23 14:23:24 --> Controller Class Initialized
+INFO - 2022-11-23 14:23:24 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:23:24 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:23:24 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:23:24 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:23:24 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:23:24 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:23:24 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:23:24 --> Final output sent to browser
+DEBUG - 2022-11-23 14:23:24 --> Total execution time: 0.4775
+INFO - 2022-11-23 14:23:53 --> Config Class Initialized
+INFO - 2022-11-23 14:23:53 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:23:53 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:23:53 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:23:53 --> URI Class Initialized
+INFO - 2022-11-23 14:23:53 --> Router Class Initialized
+INFO - 2022-11-23 14:23:53 --> Output Class Initialized
+INFO - 2022-11-23 14:23:53 --> Security Class Initialized
+DEBUG - 2022-11-23 14:23:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:23:53 --> Input Class Initialized
+INFO - 2022-11-23 14:23:53 --> Language Class Initialized
+INFO - 2022-11-23 14:23:53 --> Loader Class Initialized
+INFO - 2022-11-23 14:23:53 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:23:53 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:23:53 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:23:53 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:23:53 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:23:53 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:23:53 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:23:53 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:23:53 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:23:53 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:23:53 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:23:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:23:53 --> Pagination Class Initialized
+INFO - 2022-11-23 14:23:53 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:23:53 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:23:53 --> Email Class Initialized
+INFO - 2022-11-23 14:23:53 --> Upload Class Initialized
+INFO - 2022-11-23 14:23:53 --> Controller Class Initialized
+INFO - 2022-11-23 14:23:53 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:23:53 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:23:53 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:23:53 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:23:53 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:23:53 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:23:53 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:23:54 --> Final output sent to browser
+DEBUG - 2022-11-23 14:23:54 --> Total execution time: 0.5359
+INFO - 2022-11-23 14:23:59 --> Config Class Initialized
+INFO - 2022-11-23 14:23:59 --> Config Class Initialized
+INFO - 2022-11-23 14:23:59 --> Hooks Class Initialized
+INFO - 2022-11-23 14:23:59 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:23:59 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:23:59 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:23:59 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:23:59 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:23:59 --> URI Class Initialized
+INFO - 2022-11-23 14:23:59 --> URI Class Initialized
+INFO - 2022-11-23 14:23:59 --> Router Class Initialized
+INFO - 2022-11-23 14:23:59 --> Router Class Initialized
+INFO - 2022-11-23 14:23:59 --> Output Class Initialized
+INFO - 2022-11-23 14:23:59 --> Output Class Initialized
+INFO - 2022-11-23 14:23:59 --> Security Class Initialized
+INFO - 2022-11-23 14:23:59 --> Security Class Initialized
+DEBUG - 2022-11-23 14:23:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:23:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:23:59 --> Input Class Initialized
+INFO - 2022-11-23 14:23:59 --> Input Class Initialized
+INFO - 2022-11-23 14:23:59 --> Language Class Initialized
+INFO - 2022-11-23 14:23:59 --> Language Class Initialized
+INFO - 2022-11-23 14:23:59 --> Loader Class Initialized
+ERROR - 2022-11-23 14:23:59 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:23:59 --> Final output sent to browser
+DEBUG - 2022-11-23 14:23:59 --> Total execution time: 0.1285
+INFO - 2022-11-23 14:23:59 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:23:59 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:23:59 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:23:59 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:23:59 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:23:59 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:23:59 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:23:59 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:23:59 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:23:59 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:23:59 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:23:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:23:59 --> Pagination Class Initialized
+INFO - 2022-11-23 14:23:59 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:23:59 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:23:59 --> Email Class Initialized
+INFO - 2022-11-23 14:23:59 --> Upload Class Initialized
+INFO - 2022-11-23 14:23:59 --> Controller Class Initialized
+INFO - 2022-11-23 14:23:59 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:23:59 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:23:59 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:23:59 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:23:59 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:23:59 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:23:59 --> File loaded: /public/application/views/backend/admin/add_patient.php
+INFO - 2022-11-23 14:23:59 --> Final output sent to browser
+DEBUG - 2022-11-23 14:23:59 --> Total execution time: 0.3677
+INFO - 2022-11-23 14:26:25 --> Config Class Initialized
+INFO - 2022-11-23 14:26:25 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:26:25 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:26:25 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:26:25 --> URI Class Initialized
+INFO - 2022-11-23 14:26:25 --> Router Class Initialized
+INFO - 2022-11-23 14:26:25 --> Output Class Initialized
+INFO - 2022-11-23 14:26:25 --> Security Class Initialized
+DEBUG - 2022-11-23 14:26:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:26:25 --> Input Class Initialized
+INFO - 2022-11-23 14:26:25 --> Language Class Initialized
+INFO - 2022-11-23 14:26:25 --> Loader Class Initialized
+INFO - 2022-11-23 14:26:25 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:26:25 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:26:25 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:26:25 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:26:25 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:26:25 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:26:25 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:26:25 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:26:25 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:26:25 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:26:25 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:26:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:26:25 --> Pagination Class Initialized
+INFO - 2022-11-23 14:26:25 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:26:25 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:26:25 --> Email Class Initialized
+INFO - 2022-11-23 14:26:25 --> Upload Class Initialized
+INFO - 2022-11-23 14:26:25 --> Controller Class Initialized
+INFO - 2022-11-23 14:26:25 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:26:25 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:26:25 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:26:25 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:26:27 --> Config Class Initialized
+INFO - 2022-11-23 14:26:27 --> Hooks Class Initialized
+INFO - 2022-11-23 14:26:27 --> Config Class Initialized
+INFO - 2022-11-23 14:26:27 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:26:27 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:26:27 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:26:27 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:26:27 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:26:27 --> URI Class Initialized
+INFO - 2022-11-23 14:26:27 --> URI Class Initialized
+INFO - 2022-11-23 14:26:27 --> Router Class Initialized
+INFO - 2022-11-23 14:26:27 --> Router Class Initialized
+INFO - 2022-11-23 14:26:27 --> Output Class Initialized
+INFO - 2022-11-23 14:26:27 --> Output Class Initialized
+INFO - 2022-11-23 14:26:27 --> Security Class Initialized
+INFO - 2022-11-23 14:26:27 --> Security Class Initialized
+DEBUG - 2022-11-23 14:26:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:26:27 --> Input Class Initialized
+DEBUG - 2022-11-23 14:26:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:26:27 --> Input Class Initialized
+INFO - 2022-11-23 14:26:27 --> Language Class Initialized
+INFO - 2022-11-23 14:26:27 --> Language Class Initialized
+INFO - 2022-11-23 14:26:27 --> Loader Class Initialized
+ERROR - 2022-11-23 14:26:27 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:26:27 --> Final output sent to browser
+DEBUG - 2022-11-23 14:26:27 --> Total execution time: 0.1690
+INFO - 2022-11-23 14:26:27 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:26:27 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:26:27 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:26:27 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:26:27 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:26:27 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:26:27 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:26:27 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:26:27 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:26:27 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:26:27 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:26:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:26:27 --> Pagination Class Initialized
+INFO - 2022-11-23 14:26:27 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:26:27 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:26:27 --> Email Class Initialized
+INFO - 2022-11-23 14:26:27 --> Upload Class Initialized
+INFO - 2022-11-23 14:26:27 --> Controller Class Initialized
+INFO - 2022-11-23 14:26:27 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:26:27 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:26:27 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:26:27 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:26:28 --> Config Class Initialized
+INFO - 2022-11-23 14:26:28 --> Config Class Initialized
+INFO - 2022-11-23 14:26:28 --> Hooks Class Initialized
+INFO - 2022-11-23 14:26:28 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:26:28 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:26:28 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:26:28 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:26:28 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:26:28 --> URI Class Initialized
+INFO - 2022-11-23 14:26:28 --> URI Class Initialized
+INFO - 2022-11-23 14:26:28 --> Router Class Initialized
+INFO - 2022-11-23 14:26:28 --> Router Class Initialized
+INFO - 2022-11-23 14:26:28 --> Output Class Initialized
+INFO - 2022-11-23 14:26:28 --> Output Class Initialized
+INFO - 2022-11-23 14:26:28 --> Security Class Initialized
+INFO - 2022-11-23 14:26:28 --> Security Class Initialized
+DEBUG - 2022-11-23 14:26:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:26:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:26:28 --> Input Class Initialized
+INFO - 2022-11-23 14:26:28 --> Input Class Initialized
+INFO - 2022-11-23 14:26:28 --> Language Class Initialized
+INFO - 2022-11-23 14:26:28 --> Language Class Initialized
+ERROR - 2022-11-23 14:26:28 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:26:28 --> Loader Class Initialized
+INFO - 2022-11-23 14:26:28 --> Final output sent to browser
+DEBUG - 2022-11-23 14:26:28 --> Total execution time: 0.1476
+INFO - 2022-11-23 14:26:28 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:26:28 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:26:28 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:26:28 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:26:28 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:26:28 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:26:28 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:26:28 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:26:28 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:26:28 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:26:28 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:26:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:26:28 --> Pagination Class Initialized
+INFO - 2022-11-23 14:26:28 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:26:28 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:26:28 --> Email Class Initialized
+INFO - 2022-11-23 14:26:28 --> Upload Class Initialized
+INFO - 2022-11-23 14:26:28 --> Controller Class Initialized
+INFO - 2022-11-23 14:26:28 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:26:28 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:26:28 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:26:28 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:26:28 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:26:28 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:26:28 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:26:28 --> Final output sent to browser
+DEBUG - 2022-11-23 14:26:28 --> Total execution time: 0.4487
+INFO - 2022-11-23 14:26:39 --> Config Class Initialized
+INFO - 2022-11-23 14:26:39 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:26:39 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:26:39 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:26:39 --> URI Class Initialized
+INFO - 2022-11-23 14:26:39 --> Router Class Initialized
+INFO - 2022-11-23 14:26:39 --> Output Class Initialized
+INFO - 2022-11-23 14:26:39 --> Security Class Initialized
+DEBUG - 2022-11-23 14:26:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:26:39 --> Input Class Initialized
+INFO - 2022-11-23 14:26:39 --> Language Class Initialized
+INFO - 2022-11-23 14:26:39 --> Loader Class Initialized
+INFO - 2022-11-23 14:26:39 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:26:40 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:26:40 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:26:40 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:26:40 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:26:40 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:26:40 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:26:40 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:26:40 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:26:40 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:26:40 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:26:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:26:40 --> Pagination Class Initialized
+INFO - 2022-11-23 14:26:40 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:26:40 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:26:40 --> Email Class Initialized
+INFO - 2022-11-23 14:26:40 --> Upload Class Initialized
+INFO - 2022-11-23 14:26:40 --> Controller Class Initialized
+INFO - 2022-11-23 14:26:40 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:26:40 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:26:40 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:26:40 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:26:40 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:26:40 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:26:40 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:26:40 --> Final output sent to browser
+DEBUG - 2022-11-23 14:26:40 --> Total execution time: 0.3742
+INFO - 2022-11-23 14:27:02 --> Config Class Initialized
+INFO - 2022-11-23 14:27:02 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:27:02 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:27:02 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:27:02 --> URI Class Initialized
+INFO - 2022-11-23 14:27:02 --> Router Class Initialized
+INFO - 2022-11-23 14:27:02 --> Output Class Initialized
+INFO - 2022-11-23 14:27:02 --> Security Class Initialized
+DEBUG - 2022-11-23 14:27:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:27:02 --> Input Class Initialized
+INFO - 2022-11-23 14:27:02 --> Language Class Initialized
+INFO - 2022-11-23 14:27:02 --> Loader Class Initialized
+INFO - 2022-11-23 14:27:02 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:27:02 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:27:02 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:27:02 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:27:02 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:27:02 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:27:02 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:27:02 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:27:02 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:27:02 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:27:02 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:27:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:27:02 --> Pagination Class Initialized
+INFO - 2022-11-23 14:27:02 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:27:02 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:27:02 --> Email Class Initialized
+INFO - 2022-11-23 14:27:02 --> Upload Class Initialized
+INFO - 2022-11-23 14:27:02 --> Controller Class Initialized
+INFO - 2022-11-23 14:27:02 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:27:02 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:27:02 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:27:02 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:27:03 --> Config Class Initialized
+INFO - 2022-11-23 14:27:03 --> Hooks Class Initialized
+INFO - 2022-11-23 14:27:03 --> Config Class Initialized
+INFO - 2022-11-23 14:27:03 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:27:03 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:27:03 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:27:03 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:27:03 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:27:03 --> URI Class Initialized
+INFO - 2022-11-23 14:27:03 --> URI Class Initialized
+INFO - 2022-11-23 14:27:03 --> Router Class Initialized
+INFO - 2022-11-23 14:27:03 --> Router Class Initialized
+INFO - 2022-11-23 14:27:03 --> Output Class Initialized
+INFO - 2022-11-23 14:27:03 --> Output Class Initialized
+INFO - 2022-11-23 14:27:03 --> Security Class Initialized
+INFO - 2022-11-23 14:27:03 --> Security Class Initialized
+DEBUG - 2022-11-23 14:27:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:27:03 --> Input Class Initialized
+DEBUG - 2022-11-23 14:27:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:27:03 --> Input Class Initialized
+INFO - 2022-11-23 14:27:03 --> Language Class Initialized
+INFO - 2022-11-23 14:27:03 --> Language Class Initialized
+INFO - 2022-11-23 14:27:03 --> Loader Class Initialized
+ERROR - 2022-11-23 14:27:03 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:27:03 --> Final output sent to browser
+DEBUG - 2022-11-23 14:27:03 --> Total execution time: 0.1588
+INFO - 2022-11-23 14:27:03 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:27:03 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:27:03 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:27:03 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:27:03 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:27:03 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:27:03 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:27:03 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:27:03 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:27:03 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:27:03 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:27:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:27:03 --> Pagination Class Initialized
+INFO - 2022-11-23 14:27:03 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:27:03 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:27:03 --> Email Class Initialized
+INFO - 2022-11-23 14:27:03 --> Upload Class Initialized
+INFO - 2022-11-23 14:27:03 --> Controller Class Initialized
+INFO - 2022-11-23 14:27:03 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:27:03 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:27:03 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:27:03 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:27:03 --> File loaded: /public/application/views/backend/login.php
+INFO - 2022-11-23 14:27:03 --> Final output sent to browser
+DEBUG - 2022-11-23 14:27:03 --> Total execution time: 0.3788
+INFO - 2022-11-23 14:27:10 --> Config Class Initialized
+INFO - 2022-11-23 14:27:10 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:27:10 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:27:10 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:27:10 --> URI Class Initialized
+INFO - 2022-11-23 14:27:10 --> Router Class Initialized
+INFO - 2022-11-23 14:27:10 --> Output Class Initialized
+INFO - 2022-11-23 14:27:10 --> Security Class Initialized
+DEBUG - 2022-11-23 14:27:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:27:10 --> Input Class Initialized
+INFO - 2022-11-23 14:27:10 --> Language Class Initialized
+INFO - 2022-11-23 14:27:10 --> Loader Class Initialized
+INFO - 2022-11-23 14:27:10 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:27:10 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:27:10 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:27:10 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:27:10 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:27:10 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:27:10 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:27:10 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:27:10 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:27:10 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:27:10 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:27:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:27:10 --> Pagination Class Initialized
+INFO - 2022-11-23 14:27:10 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:27:10 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:27:10 --> Email Class Initialized
+INFO - 2022-11-23 14:27:10 --> Upload Class Initialized
+INFO - 2022-11-23 14:27:10 --> Controller Class Initialized
+INFO - 2022-11-23 14:27:10 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:27:10 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:27:10 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:27:10 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:27:10 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:27:10 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:27:10 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:27:10 --> Final output sent to browser
+DEBUG - 2022-11-23 14:27:10 --> Total execution time: 0.3789
+INFO - 2022-11-23 14:27:19 --> Config Class Initialized
+INFO - 2022-11-23 14:27:19 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:27:19 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:27:19 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:27:19 --> URI Class Initialized
+INFO - 2022-11-23 14:27:19 --> Router Class Initialized
+INFO - 2022-11-23 14:27:19 --> Output Class Initialized
+INFO - 2022-11-23 14:27:19 --> Security Class Initialized
+DEBUG - 2022-11-23 14:27:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:27:19 --> Input Class Initialized
+INFO - 2022-11-23 14:27:19 --> Language Class Initialized
+INFO - 2022-11-23 14:27:19 --> Loader Class Initialized
+INFO - 2022-11-23 14:27:19 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:27:19 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:27:19 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:27:19 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:27:19 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:27:19 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:27:19 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:27:19 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:27:19 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:27:19 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:27:19 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:27:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:27:19 --> Pagination Class Initialized
+INFO - 2022-11-23 14:27:19 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:27:19 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:27:19 --> Email Class Initialized
+INFO - 2022-11-23 14:27:20 --> Upload Class Initialized
+INFO - 2022-11-23 14:27:20 --> Controller Class Initialized
+INFO - 2022-11-23 14:27:20 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:27:20 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:27:20 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:27:20 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:27:20 --> Config Class Initialized
+INFO - 2022-11-23 14:27:20 --> Config Class Initialized
+INFO - 2022-11-23 14:27:20 --> Hooks Class Initialized
+INFO - 2022-11-23 14:27:20 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:27:20 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:27:20 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:27:20 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:27:20 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:27:20 --> URI Class Initialized
+INFO - 2022-11-23 14:27:20 --> URI Class Initialized
+INFO - 2022-11-23 14:27:20 --> Router Class Initialized
+INFO - 2022-11-23 14:27:20 --> Router Class Initialized
+INFO - 2022-11-23 14:27:20 --> Output Class Initialized
+INFO - 2022-11-23 14:27:20 --> Output Class Initialized
+INFO - 2022-11-23 14:27:20 --> Security Class Initialized
+INFO - 2022-11-23 14:27:20 --> Security Class Initialized
+DEBUG - 2022-11-23 14:27:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:27:20 --> Input Class Initialized
+DEBUG - 2022-11-23 14:27:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:27:20 --> Language Class Initialized
+INFO - 2022-11-23 14:27:20 --> Input Class Initialized
+INFO - 2022-11-23 14:27:20 --> Language Class Initialized
+INFO - 2022-11-23 14:27:20 --> Loader Class Initialized
+ERROR - 2022-11-23 14:27:20 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:27:20 --> Final output sent to browser
+INFO - 2022-11-23 14:27:20 --> Helper loaded: url_helper
+DEBUG - 2022-11-23 14:27:20 --> Total execution time: 0.2056
+INFO - 2022-11-23 14:27:20 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:27:20 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:27:20 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:27:20 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:27:20 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:27:20 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:27:20 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:27:20 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:27:20 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:27:20 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:27:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:27:20 --> Pagination Class Initialized
+INFO - 2022-11-23 14:27:20 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:27:20 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:27:20 --> Email Class Initialized
+INFO - 2022-11-23 14:27:20 --> Upload Class Initialized
+INFO - 2022-11-23 14:27:20 --> Controller Class Initialized
+INFO - 2022-11-23 14:27:20 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:27:20 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:27:20 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:27:20 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:27:21 --> Config Class Initialized
+INFO - 2022-11-23 14:27:21 --> Config Class Initialized
+INFO - 2022-11-23 14:27:21 --> Hooks Class Initialized
+INFO - 2022-11-23 14:27:21 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:27:21 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:27:21 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:27:21 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:27:21 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:27:21 --> URI Class Initialized
+INFO - 2022-11-23 14:27:21 --> URI Class Initialized
+INFO - 2022-11-23 14:27:21 --> Router Class Initialized
+INFO - 2022-11-23 14:27:21 --> Router Class Initialized
+INFO - 2022-11-23 14:27:21 --> Output Class Initialized
+INFO - 2022-11-23 14:27:21 --> Output Class Initialized
+INFO - 2022-11-23 14:27:21 --> Security Class Initialized
+INFO - 2022-11-23 14:27:21 --> Security Class Initialized
+DEBUG - 2022-11-23 14:27:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:27:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:27:21 --> Input Class Initialized
+INFO - 2022-11-23 14:27:21 --> Input Class Initialized
+INFO - 2022-11-23 14:27:21 --> Language Class Initialized
+INFO - 2022-11-23 14:27:21 --> Language Class Initialized
+INFO - 2022-11-23 14:27:21 --> Loader Class Initialized
+ERROR - 2022-11-23 14:27:21 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:27:21 --> Final output sent to browser
+DEBUG - 2022-11-23 14:27:21 --> Total execution time: 0.1242
+INFO - 2022-11-23 14:27:21 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:27:21 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:27:21 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:27:21 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:27:21 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:27:21 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:27:21 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:27:21 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:27:21 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:27:21 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:27:21 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:27:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:27:21 --> Pagination Class Initialized
+INFO - 2022-11-23 14:27:21 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:27:21 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:27:21 --> Email Class Initialized
+INFO - 2022-11-23 14:27:21 --> Upload Class Initialized
+INFO - 2022-11-23 14:27:21 --> Controller Class Initialized
+INFO - 2022-11-23 14:27:21 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:27:21 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:27:21 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:27:21 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:27:21 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:27:21 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:27:21 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:27:21 --> Final output sent to browser
+DEBUG - 2022-11-23 14:27:21 --> Total execution time: 0.4243
+INFO - 2022-11-23 14:27:26 --> Config Class Initialized
+INFO - 2022-11-23 14:27:26 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:27:26 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:27:26 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:27:26 --> URI Class Initialized
+INFO - 2022-11-23 14:27:26 --> Router Class Initialized
+INFO - 2022-11-23 14:27:26 --> Output Class Initialized
+INFO - 2022-11-23 14:27:26 --> Security Class Initialized
+DEBUG - 2022-11-23 14:27:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:27:26 --> Input Class Initialized
+INFO - 2022-11-23 14:27:26 --> Language Class Initialized
+INFO - 2022-11-23 14:27:26 --> Loader Class Initialized
+INFO - 2022-11-23 14:27:26 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:27:26 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:27:26 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:27:26 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:27:26 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:27:26 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:27:26 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:27:26 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:27:26 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:27:26 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:27:26 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:27:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:27:26 --> Pagination Class Initialized
+INFO - 2022-11-23 14:27:26 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:27:26 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:27:27 --> Email Class Initialized
+INFO - 2022-11-23 14:27:27 --> Upload Class Initialized
+INFO - 2022-11-23 14:27:27 --> Controller Class Initialized
+INFO - 2022-11-23 14:27:27 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:27:27 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:27:27 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:27:27 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:27:27 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:27:27 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:27:27 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:27:27 --> Final output sent to browser
+DEBUG - 2022-11-23 14:27:27 --> Total execution time: 0.3484
+INFO - 2022-11-23 14:27:32 --> Config Class Initialized
+INFO - 2022-11-23 14:27:32 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:27:32 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:27:32 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:27:32 --> URI Class Initialized
+INFO - 2022-11-23 14:27:32 --> Router Class Initialized
+INFO - 2022-11-23 14:27:32 --> Output Class Initialized
+INFO - 2022-11-23 14:27:32 --> Security Class Initialized
+DEBUG - 2022-11-23 14:27:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:27:32 --> Input Class Initialized
+INFO - 2022-11-23 14:27:32 --> Language Class Initialized
+INFO - 2022-11-23 14:27:32 --> Loader Class Initialized
+INFO - 2022-11-23 14:27:32 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:27:32 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:27:32 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:27:32 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:27:32 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:27:32 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:27:32 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:27:32 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:27:32 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:27:32 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:27:32 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:27:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:27:32 --> Pagination Class Initialized
+INFO - 2022-11-23 14:27:32 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:27:32 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:27:32 --> Email Class Initialized
+INFO - 2022-11-23 14:27:32 --> Upload Class Initialized
+INFO - 2022-11-23 14:27:32 --> Controller Class Initialized
+INFO - 2022-11-23 14:27:32 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:27:32 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:27:32 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:27:32 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:27:32 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:27:32 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:27:32 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:27:32 --> Final output sent to browser
+DEBUG - 2022-11-23 14:27:32 --> Total execution time: 0.3691
+INFO - 2022-11-23 14:27:37 --> Config Class Initialized
+INFO - 2022-11-23 14:27:37 --> Hooks Class Initialized
+INFO - 2022-11-23 14:27:37 --> Config Class Initialized
+INFO - 2022-11-23 14:27:37 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:27:37 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:27:37 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:27:37 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:27:37 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:27:37 --> URI Class Initialized
+INFO - 2022-11-23 14:27:37 --> URI Class Initialized
+INFO - 2022-11-23 14:27:37 --> Router Class Initialized
+INFO - 2022-11-23 14:27:37 --> Router Class Initialized
+INFO - 2022-11-23 14:27:37 --> Output Class Initialized
+INFO - 2022-11-23 14:27:37 --> Output Class Initialized
+INFO - 2022-11-23 14:27:37 --> Security Class Initialized
+INFO - 2022-11-23 14:27:37 --> Security Class Initialized
+DEBUG - 2022-11-23 14:27:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:27:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:27:37 --> Input Class Initialized
+INFO - 2022-11-23 14:27:37 --> Input Class Initialized
+INFO - 2022-11-23 14:27:37 --> Language Class Initialized
+INFO - 2022-11-23 14:27:37 --> Language Class Initialized
+ERROR - 2022-11-23 14:27:37 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:27:37 --> Loader Class Initialized
+INFO - 2022-11-23 14:27:37 --> Final output sent to browser
+DEBUG - 2022-11-23 14:27:38 --> Total execution time: 0.1486
+INFO - 2022-11-23 14:27:38 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:27:38 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:27:38 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:27:38 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:27:38 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:27:38 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:27:38 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:27:38 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:27:38 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:27:38 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:27:38 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:27:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:27:38 --> Pagination Class Initialized
+INFO - 2022-11-23 14:27:38 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:27:38 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:27:38 --> Email Class Initialized
+INFO - 2022-11-23 14:27:38 --> Upload Class Initialized
+INFO - 2022-11-23 14:27:38 --> Controller Class Initialized
+INFO - 2022-11-23 14:27:38 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:27:38 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:27:38 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:27:38 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:27:38 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:27:38 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:27:38 --> File loaded: /public/application/views/backend/nurse/add_blood_donor.php
+INFO - 2022-11-23 14:27:38 --> Final output sent to browser
+DEBUG - 2022-11-23 14:27:38 --> Total execution time: 0.4320
+INFO - 2022-11-23 14:28:15 --> Config Class Initialized
+INFO - 2022-11-23 14:28:15 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:28:15 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:28:15 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:28:15 --> URI Class Initialized
+INFO - 2022-11-23 14:28:15 --> Router Class Initialized
+INFO - 2022-11-23 14:28:15 --> Output Class Initialized
+INFO - 2022-11-23 14:28:15 --> Security Class Initialized
+DEBUG - 2022-11-23 14:28:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:28:15 --> Input Class Initialized
+INFO - 2022-11-23 14:28:15 --> Language Class Initialized
+INFO - 2022-11-23 14:28:15 --> Loader Class Initialized
+INFO - 2022-11-23 14:28:15 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:28:15 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:28:15 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:28:15 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:28:15 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:28:15 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:28:15 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:28:15 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:28:15 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:28:15 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:28:15 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:28:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:28:15 --> Pagination Class Initialized
+INFO - 2022-11-23 14:28:15 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:28:15 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:28:15 --> Email Class Initialized
+INFO - 2022-11-23 14:28:15 --> Upload Class Initialized
+INFO - 2022-11-23 14:28:15 --> Controller Class Initialized
+INFO - 2022-11-23 14:28:15 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:28:15 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:28:15 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:28:15 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:28:15 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:28:15 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:28:15 --> Config Class Initialized
+INFO - 2022-11-23 14:28:15 --> Config Class Initialized
+INFO - 2022-11-23 14:28:15 --> Hooks Class Initialized
+INFO - 2022-11-23 14:28:15 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:28:15 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:28:15 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:28:15 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:28:15 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:28:15 --> URI Class Initialized
+INFO - 2022-11-23 14:28:15 --> URI Class Initialized
+INFO - 2022-11-23 14:28:16 --> Router Class Initialized
+INFO - 2022-11-23 14:28:16 --> Router Class Initialized
+INFO - 2022-11-23 14:28:16 --> Output Class Initialized
+INFO - 2022-11-23 14:28:16 --> Output Class Initialized
+INFO - 2022-11-23 14:28:16 --> Security Class Initialized
+INFO - 2022-11-23 14:28:16 --> Security Class Initialized
+DEBUG - 2022-11-23 14:28:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:28:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:28:16 --> Input Class Initialized
+INFO - 2022-11-23 14:28:16 --> Input Class Initialized
+INFO - 2022-11-23 14:28:16 --> Language Class Initialized
+INFO - 2022-11-23 14:28:16 --> Language Class Initialized
+ERROR - 2022-11-23 14:28:16 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:28:16 --> Loader Class Initialized
+INFO - 2022-11-23 14:28:16 --> Final output sent to browser
+DEBUG - 2022-11-23 14:28:16 --> Total execution time: 0.1376
+INFO - 2022-11-23 14:28:16 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:28:16 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:28:16 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:28:16 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:28:16 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:28:16 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:28:16 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:28:16 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:28:16 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:28:16 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:28:16 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:28:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:28:16 --> Pagination Class Initialized
+INFO - 2022-11-23 14:28:16 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:28:16 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:28:16 --> Email Class Initialized
+INFO - 2022-11-23 14:28:16 --> Upload Class Initialized
+INFO - 2022-11-23 14:28:16 --> Controller Class Initialized
+INFO - 2022-11-23 14:28:16 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:28:16 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:28:16 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:28:16 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:28:16 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:28:16 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:28:16 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:28:16 --> Final output sent to browser
+DEBUG - 2022-11-23 14:28:16 --> Total execution time: 0.4048
+INFO - 2022-11-23 14:28:19 --> Config Class Initialized
+INFO - 2022-11-23 14:28:19 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:28:19 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:28:19 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:28:19 --> URI Class Initialized
+INFO - 2022-11-23 14:28:19 --> Router Class Initialized
+INFO - 2022-11-23 14:28:19 --> Output Class Initialized
+INFO - 2022-11-23 14:28:19 --> Security Class Initialized
+DEBUG - 2022-11-23 14:28:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:28:19 --> Input Class Initialized
+INFO - 2022-11-23 14:28:19 --> Language Class Initialized
+INFO - 2022-11-23 14:28:19 --> Loader Class Initialized
+INFO - 2022-11-23 14:28:19 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:28:19 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:28:19 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:28:19 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:28:19 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:28:19 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:28:19 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:28:19 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:28:19 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:28:19 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:28:20 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:28:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:28:20 --> Pagination Class Initialized
+INFO - 2022-11-23 14:28:20 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:28:20 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:28:20 --> Email Class Initialized
+INFO - 2022-11-23 14:28:20 --> Upload Class Initialized
+INFO - 2022-11-23 14:28:20 --> Controller Class Initialized
+INFO - 2022-11-23 14:28:20 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:28:20 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:28:20 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:28:20 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:28:20 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:28:20 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:28:20 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:28:20 --> Final output sent to browser
+DEBUG - 2022-11-23 14:28:20 --> Total execution time: 0.3337
+INFO - 2022-11-23 14:28:30 --> Config Class Initialized
+INFO - 2022-11-23 14:28:30 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:28:30 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:28:30 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:28:30 --> URI Class Initialized
+INFO - 2022-11-23 14:28:30 --> Router Class Initialized
+INFO - 2022-11-23 14:28:30 --> Output Class Initialized
+INFO - 2022-11-23 14:28:30 --> Security Class Initialized
+DEBUG - 2022-11-23 14:28:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:28:30 --> Input Class Initialized
+INFO - 2022-11-23 14:28:30 --> Language Class Initialized
+INFO - 2022-11-23 14:28:30 --> Loader Class Initialized
+INFO - 2022-11-23 14:28:30 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:28:30 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:28:30 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:28:30 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:28:30 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:28:30 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:28:30 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:28:30 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:28:30 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:28:30 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:28:30 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:28:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:28:30 --> Pagination Class Initialized
+INFO - 2022-11-23 14:28:30 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:28:30 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:28:30 --> Email Class Initialized
+INFO - 2022-11-23 14:28:30 --> Upload Class Initialized
+INFO - 2022-11-23 14:28:30 --> Controller Class Initialized
+INFO - 2022-11-23 14:28:30 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:28:30 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:28:30 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:28:30 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:28:30 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:28:30 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:28:30 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:28:30 --> Final output sent to browser
+DEBUG - 2022-11-23 14:28:30 --> Total execution time: 0.3564
+INFO - 2022-11-23 14:28:31 --> Config Class Initialized
+INFO - 2022-11-23 14:28:31 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:28:31 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:28:31 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:28:31 --> URI Class Initialized
+INFO - 2022-11-23 14:28:31 --> Router Class Initialized
+INFO - 2022-11-23 14:28:31 --> Output Class Initialized
+INFO - 2022-11-23 14:28:31 --> Security Class Initialized
+DEBUG - 2022-11-23 14:28:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:28:31 --> Input Class Initialized
+INFO - 2022-11-23 14:28:31 --> Language Class Initialized
+INFO - 2022-11-23 14:28:31 --> Loader Class Initialized
+INFO - 2022-11-23 14:28:31 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:28:31 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:28:31 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:28:31 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:28:31 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:28:31 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:28:31 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:28:31 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:28:31 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:28:31 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:28:31 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:28:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:28:31 --> Pagination Class Initialized
+INFO - 2022-11-23 14:28:31 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:28:31 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:28:31 --> Email Class Initialized
+INFO - 2022-11-23 14:28:31 --> Upload Class Initialized
+INFO - 2022-11-23 14:28:31 --> Controller Class Initialized
+INFO - 2022-11-23 14:28:31 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:28:31 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:28:31 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:28:31 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:28:31 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:28:31 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:28:31 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:28:31 --> Final output sent to browser
+DEBUG - 2022-11-23 14:28:31 --> Total execution time: 0.4684
+INFO - 2022-11-23 14:28:47 --> Config Class Initialized
+INFO - 2022-11-23 14:28:47 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:28:47 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:28:47 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:28:47 --> URI Class Initialized
+INFO - 2022-11-23 14:28:47 --> Router Class Initialized
+INFO - 2022-11-23 14:28:47 --> Output Class Initialized
+INFO - 2022-11-23 14:28:47 --> Security Class Initialized
+DEBUG - 2022-11-23 14:28:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:28:47 --> Input Class Initialized
+INFO - 2022-11-23 14:28:47 --> Language Class Initialized
+INFO - 2022-11-23 14:28:47 --> Loader Class Initialized
+INFO - 2022-11-23 14:28:47 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:28:47 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:28:47 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:28:47 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:28:47 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:28:47 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:28:47 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:28:47 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:28:47 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:28:47 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:28:47 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:28:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:28:47 --> Pagination Class Initialized
+INFO - 2022-11-23 14:28:47 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:28:47 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:28:47 --> Email Class Initialized
+INFO - 2022-11-23 14:28:48 --> Upload Class Initialized
+INFO - 2022-11-23 14:28:48 --> Controller Class Initialized
+INFO - 2022-11-23 14:28:48 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:28:48 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:28:48 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:28:48 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:28:48 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:28:48 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:28:48 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:28:48 --> Final output sent to browser
+DEBUG - 2022-11-23 14:28:48 --> Total execution time: 0.3535
+INFO - 2022-11-23 14:28:58 --> Config Class Initialized
+INFO - 2022-11-23 14:28:58 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:28:58 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:28:58 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:28:58 --> URI Class Initialized
+INFO - 2022-11-23 14:28:58 --> Router Class Initialized
+INFO - 2022-11-23 14:28:58 --> Output Class Initialized
+INFO - 2022-11-23 14:28:58 --> Security Class Initialized
+DEBUG - 2022-11-23 14:28:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:28:58 --> Input Class Initialized
+INFO - 2022-11-23 14:28:58 --> Language Class Initialized
+INFO - 2022-11-23 14:28:58 --> Loader Class Initialized
+INFO - 2022-11-23 14:28:58 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:28:58 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:28:58 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:28:58 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:28:58 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:28:58 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:28:58 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:28:58 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:28:58 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:28:58 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:28:58 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:28:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:28:58 --> Pagination Class Initialized
+INFO - 2022-11-23 14:28:58 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:28:58 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:28:58 --> Email Class Initialized
+INFO - 2022-11-23 14:28:58 --> Upload Class Initialized
+INFO - 2022-11-23 14:28:58 --> Controller Class Initialized
+INFO - 2022-11-23 14:28:58 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:28:58 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:28:58 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:28:58 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:28:59 --> Config Class Initialized
+INFO - 2022-11-23 14:28:59 --> Hooks Class Initialized
+INFO - 2022-11-23 14:28:59 --> Config Class Initialized
+INFO - 2022-11-23 14:28:59 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:28:59 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:28:59 --> Utf8 Class Initialized
+DEBUG - 2022-11-23 14:28:59 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:28:59 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:28:59 --> URI Class Initialized
+INFO - 2022-11-23 14:28:59 --> URI Class Initialized
+INFO - 2022-11-23 14:28:59 --> Router Class Initialized
+INFO - 2022-11-23 14:28:59 --> Router Class Initialized
+INFO - 2022-11-23 14:28:59 --> Output Class Initialized
+INFO - 2022-11-23 14:28:59 --> Output Class Initialized
+INFO - 2022-11-23 14:28:59 --> Security Class Initialized
+DEBUG - 2022-11-23 14:28:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:28:59 --> Security Class Initialized
+INFO - 2022-11-23 14:28:59 --> Input Class Initialized
+DEBUG - 2022-11-23 14:28:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:28:59 --> Language Class Initialized
+INFO - 2022-11-23 14:28:59 --> Input Class Initialized
+INFO - 2022-11-23 14:28:59 --> Language Class Initialized
+INFO - 2022-11-23 14:28:59 --> Loader Class Initialized
+ERROR - 2022-11-23 14:28:59 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:28:59 --> Final output sent to browser
+DEBUG - 2022-11-23 14:28:59 --> Total execution time: 0.1632
+INFO - 2022-11-23 14:28:59 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:28:59 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:28:59 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:28:59 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:28:59 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:28:59 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:28:59 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:28:59 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:28:59 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:28:59 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:28:59 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:28:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:28:59 --> Pagination Class Initialized
+INFO - 2022-11-23 14:28:59 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:28:59 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:28:59 --> Email Class Initialized
+INFO - 2022-11-23 14:28:59 --> Upload Class Initialized
+INFO - 2022-11-23 14:28:59 --> Controller Class Initialized
+INFO - 2022-11-23 14:28:59 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:28:59 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:28:59 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:28:59 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:28:59 --> File loaded: /public/application/views/backend/login.php
+INFO - 2022-11-23 14:28:59 --> Final output sent to browser
+DEBUG - 2022-11-23 14:28:59 --> Total execution time: 0.3990
+INFO - 2022-11-23 14:29:04 --> Config Class Initialized
+INFO - 2022-11-23 14:29:04 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:29:04 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:29:04 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:04 --> URI Class Initialized
+INFO - 2022-11-23 14:29:04 --> Router Class Initialized
+INFO - 2022-11-23 14:29:04 --> Output Class Initialized
+INFO - 2022-11-23 14:29:04 --> Security Class Initialized
+DEBUG - 2022-11-23 14:29:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:29:04 --> Input Class Initialized
+INFO - 2022-11-23 14:29:04 --> Language Class Initialized
+INFO - 2022-11-23 14:29:04 --> Loader Class Initialized
+INFO - 2022-11-23 14:29:04 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:29:04 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:29:04 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:29:04 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:29:04 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:29:04 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:29:04 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:29:04 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:29:04 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:29:04 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:29:04 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:29:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:29:04 --> Pagination Class Initialized
+INFO - 2022-11-23 14:29:04 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:29:04 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:29:04 --> Email Class Initialized
+INFO - 2022-11-23 14:29:04 --> Upload Class Initialized
+INFO - 2022-11-23 14:29:04 --> Controller Class Initialized
+INFO - 2022-11-23 14:29:04 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:29:04 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:29:04 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:29:04 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:29:05 --> Config Class Initialized
+INFO - 2022-11-23 14:29:05 --> Config Class Initialized
+INFO - 2022-11-23 14:29:05 --> Hooks Class Initialized
+INFO - 2022-11-23 14:29:05 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:29:05 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:29:05 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:29:05 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:05 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:05 --> URI Class Initialized
+INFO - 2022-11-23 14:29:05 --> URI Class Initialized
+INFO - 2022-11-23 14:29:05 --> Router Class Initialized
+INFO - 2022-11-23 14:29:05 --> Router Class Initialized
+INFO - 2022-11-23 14:29:05 --> Output Class Initialized
+INFO - 2022-11-23 14:29:05 --> Output Class Initialized
+INFO - 2022-11-23 14:29:05 --> Security Class Initialized
+INFO - 2022-11-23 14:29:05 --> Security Class Initialized
+DEBUG - 2022-11-23 14:29:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:29:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:29:05 --> Input Class Initialized
+INFO - 2022-11-23 14:29:05 --> Input Class Initialized
+INFO - 2022-11-23 14:29:05 --> Language Class Initialized
+INFO - 2022-11-23 14:29:05 --> Language Class Initialized
+ERROR - 2022-11-23 14:29:05 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:29:05 --> Loader Class Initialized
+INFO - 2022-11-23 14:29:05 --> Final output sent to browser
+DEBUG - 2022-11-23 14:29:05 --> Total execution time: 0.1884
+INFO - 2022-11-23 14:29:05 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:29:05 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:29:05 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:29:05 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:29:05 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:29:05 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:29:05 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:29:05 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:29:05 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:29:05 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:29:05 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:29:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:29:05 --> Pagination Class Initialized
+INFO - 2022-11-23 14:29:05 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:29:05 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:29:05 --> Email Class Initialized
+INFO - 2022-11-23 14:29:05 --> Upload Class Initialized
+INFO - 2022-11-23 14:29:05 --> Controller Class Initialized
+INFO - 2022-11-23 14:29:05 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:29:05 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:29:05 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:29:05 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:29:06 --> Config Class Initialized
+INFO - 2022-11-23 14:29:06 --> Config Class Initialized
+INFO - 2022-11-23 14:29:06 --> Hooks Class Initialized
+INFO - 2022-11-23 14:29:06 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:29:06 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:29:06 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:29:06 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:06 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:06 --> URI Class Initialized
+INFO - 2022-11-23 14:29:06 --> URI Class Initialized
+INFO - 2022-11-23 14:29:06 --> Router Class Initialized
+INFO - 2022-11-23 14:29:06 --> Router Class Initialized
+INFO - 2022-11-23 14:29:06 --> Output Class Initialized
+INFO - 2022-11-23 14:29:06 --> Output Class Initialized
+INFO - 2022-11-23 14:29:06 --> Security Class Initialized
+INFO - 2022-11-23 14:29:06 --> Security Class Initialized
+DEBUG - 2022-11-23 14:29:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:29:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:29:06 --> Input Class Initialized
+INFO - 2022-11-23 14:29:06 --> Input Class Initialized
+INFO - 2022-11-23 14:29:06 --> Language Class Initialized
+INFO - 2022-11-23 14:29:06 --> Language Class Initialized
+ERROR - 2022-11-23 14:29:06 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:29:06 --> Final output sent to browser
+INFO - 2022-11-23 14:29:06 --> Loader Class Initialized
+DEBUG - 2022-11-23 14:29:06 --> Total execution time: 0.1589
+INFO - 2022-11-23 14:29:06 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:29:06 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:29:06 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:29:06 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:29:06 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:29:06 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:29:06 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:29:06 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:29:06 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:29:06 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:29:06 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:29:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:29:06 --> Pagination Class Initialized
+INFO - 2022-11-23 14:29:06 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:29:06 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:29:06 --> Email Class Initialized
+INFO - 2022-11-23 14:29:06 --> Upload Class Initialized
+INFO - 2022-11-23 14:29:06 --> Controller Class Initialized
+INFO - 2022-11-23 14:29:06 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:29:06 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:29:06 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:29:06 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:29:06 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:29:06 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:29:06 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:29:06 --> Final output sent to browser
+DEBUG - 2022-11-23 14:29:06 --> Total execution time: 0.4237
+INFO - 2022-11-23 14:29:09 --> Config Class Initialized
+INFO - 2022-11-23 14:29:09 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:29:09 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:29:09 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:09 --> URI Class Initialized
+INFO - 2022-11-23 14:29:09 --> Router Class Initialized
+INFO - 2022-11-23 14:29:09 --> Output Class Initialized
+INFO - 2022-11-23 14:29:09 --> Security Class Initialized
+DEBUG - 2022-11-23 14:29:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:29:09 --> Input Class Initialized
+INFO - 2022-11-23 14:29:09 --> Language Class Initialized
+INFO - 2022-11-23 14:29:09 --> Loader Class Initialized
+INFO - 2022-11-23 14:29:09 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:29:09 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:29:09 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:29:09 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:29:09 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:29:09 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:29:09 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:29:09 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:29:09 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:29:09 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:29:09 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:29:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:29:09 --> Pagination Class Initialized
+INFO - 2022-11-23 14:29:09 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:29:09 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:29:09 --> Email Class Initialized
+INFO - 2022-11-23 14:29:09 --> Upload Class Initialized
+INFO - 2022-11-23 14:29:09 --> Controller Class Initialized
+INFO - 2022-11-23 14:29:09 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:29:09 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:29:09 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:29:09 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:29:09 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:29:09 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:29:09 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:29:09 --> Final output sent to browser
+DEBUG - 2022-11-23 14:29:10 --> Total execution time: 0.3814
+INFO - 2022-11-23 14:29:12 --> Config Class Initialized
+INFO - 2022-11-23 14:29:12 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:29:12 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:29:12 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:12 --> URI Class Initialized
+INFO - 2022-11-23 14:29:12 --> Router Class Initialized
+INFO - 2022-11-23 14:29:12 --> Output Class Initialized
+INFO - 2022-11-23 14:29:12 --> Security Class Initialized
+DEBUG - 2022-11-23 14:29:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:29:12 --> Input Class Initialized
+INFO - 2022-11-23 14:29:12 --> Language Class Initialized
+INFO - 2022-11-23 14:29:12 --> Loader Class Initialized
+INFO - 2022-11-23 14:29:12 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:29:12 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:29:12 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:29:12 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:29:12 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:29:12 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:29:12 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:29:12 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:29:12 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:29:12 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:29:12 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:29:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:29:12 --> Pagination Class Initialized
+INFO - 2022-11-23 14:29:12 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:29:12 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:29:12 --> Email Class Initialized
+INFO - 2022-11-23 14:29:12 --> Upload Class Initialized
+INFO - 2022-11-23 14:29:12 --> Controller Class Initialized
+INFO - 2022-11-23 14:29:12 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:29:12 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:29:12 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:29:12 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:29:12 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:29:12 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:29:13 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:29:13 --> Final output sent to browser
+DEBUG - 2022-11-23 14:29:13 --> Total execution time: 0.3633
+INFO - 2022-11-23 14:29:17 --> Config Class Initialized
+INFO - 2022-11-23 14:29:17 --> Config Class Initialized
+INFO - 2022-11-23 14:29:17 --> Hooks Class Initialized
+INFO - 2022-11-23 14:29:17 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:29:17 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:29:17 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:29:17 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:17 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:17 --> URI Class Initialized
+INFO - 2022-11-23 14:29:17 --> URI Class Initialized
+INFO - 2022-11-23 14:29:17 --> Router Class Initialized
+INFO - 2022-11-23 14:29:17 --> Router Class Initialized
+INFO - 2022-11-23 14:29:17 --> Output Class Initialized
+INFO - 2022-11-23 14:29:17 --> Output Class Initialized
+INFO - 2022-11-23 14:29:17 --> Security Class Initialized
+INFO - 2022-11-23 14:29:17 --> Security Class Initialized
+DEBUG - 2022-11-23 14:29:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:29:17 --> Input Class Initialized
+DEBUG - 2022-11-23 14:29:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:29:17 --> Input Class Initialized
+INFO - 2022-11-23 14:29:17 --> Language Class Initialized
+INFO - 2022-11-23 14:29:17 --> Language Class Initialized
+ERROR - 2022-11-23 14:29:17 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:29:17 --> Final output sent to browser
+INFO - 2022-11-23 14:29:17 --> Loader Class Initialized
+DEBUG - 2022-11-23 14:29:17 --> Total execution time: 0.1178
+INFO - 2022-11-23 14:29:17 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:29:17 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:29:17 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:29:17 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:29:17 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:29:17 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:29:17 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:29:17 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:29:17 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:29:17 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:29:17 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:29:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:29:17 --> Pagination Class Initialized
+INFO - 2022-11-23 14:29:17 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:29:17 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:29:17 --> Email Class Initialized
+INFO - 2022-11-23 14:29:17 --> Upload Class Initialized
+INFO - 2022-11-23 14:29:17 --> Controller Class Initialized
+INFO - 2022-11-23 14:29:17 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:29:17 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:29:17 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:29:17 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:29:17 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:29:17 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:29:17 --> File loaded: /public/application/views/backend/laboratorist/edit_blood_donor.php
+INFO - 2022-11-23 14:29:17 --> Final output sent to browser
+DEBUG - 2022-11-23 14:29:17 --> Total execution time: 0.3595
+INFO - 2022-11-23 14:29:24 --> Config Class Initialized
+INFO - 2022-11-23 14:29:24 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:29:24 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:29:24 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:24 --> URI Class Initialized
+INFO - 2022-11-23 14:29:24 --> Router Class Initialized
+INFO - 2022-11-23 14:29:24 --> Output Class Initialized
+INFO - 2022-11-23 14:29:24 --> Security Class Initialized
+DEBUG - 2022-11-23 14:29:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:29:24 --> Input Class Initialized
+INFO - 2022-11-23 14:29:24 --> Language Class Initialized
+INFO - 2022-11-23 14:29:24 --> Loader Class Initialized
+INFO - 2022-11-23 14:29:24 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:29:24 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:29:24 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:29:24 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:29:24 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:29:24 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:29:24 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:29:25 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:29:25 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:29:25 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:29:25 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:29:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:29:25 --> Pagination Class Initialized
+INFO - 2022-11-23 14:29:25 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:29:25 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:29:25 --> Email Class Initialized
+INFO - 2022-11-23 14:29:25 --> Upload Class Initialized
+INFO - 2022-11-23 14:29:25 --> Controller Class Initialized
+INFO - 2022-11-23 14:29:25 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:29:25 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:29:25 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:29:25 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:29:25 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:29:25 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:29:26 --> Config Class Initialized
+INFO - 2022-11-23 14:29:26 --> Config Class Initialized
+INFO - 2022-11-23 14:29:26 --> Hooks Class Initialized
+INFO - 2022-11-23 14:29:26 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:29:26 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:29:26 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:29:26 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:26 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:26 --> URI Class Initialized
+INFO - 2022-11-23 14:29:26 --> URI Class Initialized
+INFO - 2022-11-23 14:29:26 --> Router Class Initialized
+INFO - 2022-11-23 14:29:26 --> Router Class Initialized
+INFO - 2022-11-23 14:29:26 --> Output Class Initialized
+INFO - 2022-11-23 14:29:26 --> Output Class Initialized
+INFO - 2022-11-23 14:29:26 --> Security Class Initialized
+INFO - 2022-11-23 14:29:26 --> Security Class Initialized
+DEBUG - 2022-11-23 14:29:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:29:26 --> Input Class Initialized
+DEBUG - 2022-11-23 14:29:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:29:26 --> Input Class Initialized
+INFO - 2022-11-23 14:29:26 --> Language Class Initialized
+INFO - 2022-11-23 14:29:26 --> Language Class Initialized
+INFO - 2022-11-23 14:29:26 --> Loader Class Initialized
+ERROR - 2022-11-23 14:29:26 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:29:26 --> Final output sent to browser
+DEBUG - 2022-11-23 14:29:26 --> Total execution time: 0.1698
+INFO - 2022-11-23 14:29:26 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:29:26 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:29:26 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:29:26 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:29:26 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:29:26 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:29:26 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:29:26 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:29:26 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:29:26 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:29:26 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:29:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:29:26 --> Pagination Class Initialized
+INFO - 2022-11-23 14:29:26 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:29:26 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:29:26 --> Email Class Initialized
+INFO - 2022-11-23 14:29:26 --> Upload Class Initialized
+INFO - 2022-11-23 14:29:26 --> Controller Class Initialized
+INFO - 2022-11-23 14:29:26 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:29:26 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:29:26 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:29:26 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:29:26 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:29:26 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:29:26 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:29:26 --> Final output sent to browser
+DEBUG - 2022-11-23 14:29:26 --> Total execution time: 0.4561
+INFO - 2022-11-23 14:29:34 --> Config Class Initialized
+INFO - 2022-11-23 14:29:34 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:29:34 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:29:34 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:34 --> URI Class Initialized
+INFO - 2022-11-23 14:29:34 --> Router Class Initialized
+INFO - 2022-11-23 14:29:34 --> Output Class Initialized
+INFO - 2022-11-23 14:29:34 --> Security Class Initialized
+DEBUG - 2022-11-23 14:29:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:29:34 --> Input Class Initialized
+INFO - 2022-11-23 14:29:34 --> Language Class Initialized
+INFO - 2022-11-23 14:29:34 --> Loader Class Initialized
+INFO - 2022-11-23 14:29:34 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:29:34 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:29:34 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:29:34 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:29:34 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:29:34 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:29:34 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:29:34 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:29:34 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:29:34 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:29:34 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:29:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:29:34 --> Pagination Class Initialized
+INFO - 2022-11-23 14:29:34 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:29:34 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:29:34 --> Email Class Initialized
+INFO - 2022-11-23 14:29:34 --> Upload Class Initialized
+INFO - 2022-11-23 14:29:34 --> Controller Class Initialized
+INFO - 2022-11-23 14:29:34 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:29:34 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:29:34 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:29:34 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:29:34 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:29:34 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:29:34 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:29:34 --> Final output sent to browser
+DEBUG - 2022-11-23 14:29:34 --> Total execution time: 0.4622
+INFO - 2022-11-23 14:29:43 --> Config Class Initialized
+INFO - 2022-11-23 14:29:43 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:29:43 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:29:43 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:43 --> URI Class Initialized
+INFO - 2022-11-23 14:29:43 --> Router Class Initialized
+INFO - 2022-11-23 14:29:43 --> Output Class Initialized
+INFO - 2022-11-23 14:29:43 --> Security Class Initialized
+DEBUG - 2022-11-23 14:29:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:29:43 --> Input Class Initialized
+INFO - 2022-11-23 14:29:43 --> Language Class Initialized
+INFO - 2022-11-23 14:29:43 --> Loader Class Initialized
+INFO - 2022-11-23 14:29:43 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:29:43 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:29:43 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:29:43 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:29:43 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:29:43 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:29:43 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:29:43 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:29:43 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:29:43 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:29:43 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:29:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:29:43 --> Pagination Class Initialized
+INFO - 2022-11-23 14:29:43 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:29:43 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:29:43 --> Email Class Initialized
+INFO - 2022-11-23 14:29:43 --> Upload Class Initialized
+INFO - 2022-11-23 14:29:43 --> Controller Class Initialized
+INFO - 2022-11-23 14:29:43 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:29:43 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:29:43 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:29:43 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:29:43 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:29:43 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:29:44 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:29:44 --> Final output sent to browser
+DEBUG - 2022-11-23 14:29:44 --> Total execution time: 0.4451
+INFO - 2022-11-23 14:29:54 --> Config Class Initialized
+INFO - 2022-11-23 14:29:54 --> Config Class Initialized
+INFO - 2022-11-23 14:29:54 --> Hooks Class Initialized
+INFO - 2022-11-23 14:29:54 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:29:54 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:29:54 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:29:54 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:54 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:29:54 --> URI Class Initialized
+INFO - 2022-11-23 14:29:54 --> URI Class Initialized
+INFO - 2022-11-23 14:29:54 --> Router Class Initialized
+INFO - 2022-11-23 14:29:54 --> Router Class Initialized
+INFO - 2022-11-23 14:29:54 --> Output Class Initialized
+INFO - 2022-11-23 14:29:54 --> Output Class Initialized
+INFO - 2022-11-23 14:29:54 --> Security Class Initialized
+INFO - 2022-11-23 14:29:54 --> Security Class Initialized
+DEBUG - 2022-11-23 14:29:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:29:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:29:54 --> Input Class Initialized
+INFO - 2022-11-23 14:29:54 --> Input Class Initialized
+INFO - 2022-11-23 14:29:54 --> Language Class Initialized
+INFO - 2022-11-23 14:29:54 --> Language Class Initialized
+ERROR - 2022-11-23 14:29:54 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:29:54 --> Loader Class Initialized
+INFO - 2022-11-23 14:29:54 --> Final output sent to browser
+DEBUG - 2022-11-23 14:29:54 --> Total execution time: 0.1113
+INFO - 2022-11-23 14:29:54 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:29:54 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:29:54 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:29:54 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:29:54 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:29:54 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:29:54 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:29:54 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:29:54 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:29:54 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:29:54 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:29:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:29:54 --> Pagination Class Initialized
+INFO - 2022-11-23 14:29:54 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:29:54 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:29:54 --> Email Class Initialized
+INFO - 2022-11-23 14:29:54 --> Upload Class Initialized
+INFO - 2022-11-23 14:29:54 --> Controller Class Initialized
+INFO - 2022-11-23 14:29:54 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:29:54 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:29:54 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:29:54 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:29:54 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:29:54 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:29:54 --> File loaded: /public/application/views/backend/laboratorist/upload_pathology_report.php
+INFO - 2022-11-23 14:29:54 --> Final output sent to browser
+DEBUG - 2022-11-23 14:29:54 --> Total execution time: 0.3453
+INFO - 2022-11-23 14:30:09 --> Config Class Initialized
+INFO - 2022-11-23 14:30:09 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:30:09 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:30:09 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:30:09 --> URI Class Initialized
+INFO - 2022-11-23 14:30:09 --> Router Class Initialized
+INFO - 2022-11-23 14:30:09 --> Output Class Initialized
+INFO - 2022-11-23 14:30:09 --> Security Class Initialized
+DEBUG - 2022-11-23 14:30:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:30:09 --> Input Class Initialized
+INFO - 2022-11-23 14:30:09 --> Language Class Initialized
+INFO - 2022-11-23 14:30:09 --> Loader Class Initialized
+INFO - 2022-11-23 14:30:09 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:30:09 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:30:09 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:30:09 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:30:09 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:30:09 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:30:09 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:30:09 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:30:09 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:30:09 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:30:09 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:30:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:30:09 --> Pagination Class Initialized
+INFO - 2022-11-23 14:30:09 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:30:09 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:30:09 --> Email Class Initialized
+INFO - 2022-11-23 14:30:09 --> Upload Class Initialized
+INFO - 2022-11-23 14:30:09 --> Controller Class Initialized
+INFO - 2022-11-23 14:30:09 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:30:09 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:30:09 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:30:09 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:30:09 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:30:09 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:30:10 --> Config Class Initialized
+INFO - 2022-11-23 14:30:10 --> Config Class Initialized
+INFO - 2022-11-23 14:30:10 --> Hooks Class Initialized
+INFO - 2022-11-23 14:30:10 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:30:10 --> UTF-8 Support Enabled
+DEBUG - 2022-11-23 14:30:10 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:30:10 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:30:10 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:30:10 --> URI Class Initialized
+INFO - 2022-11-23 14:30:10 --> URI Class Initialized
+INFO - 2022-11-23 14:30:10 --> Router Class Initialized
+INFO - 2022-11-23 14:30:10 --> Router Class Initialized
+INFO - 2022-11-23 14:30:10 --> Output Class Initialized
+INFO - 2022-11-23 14:30:10 --> Output Class Initialized
+INFO - 2022-11-23 14:30:10 --> Security Class Initialized
+INFO - 2022-11-23 14:30:10 --> Security Class Initialized
+DEBUG - 2022-11-23 14:30:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-11-23 14:30:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:30:10 --> Input Class Initialized
+INFO - 2022-11-23 14:30:10 --> Input Class Initialized
+INFO - 2022-11-23 14:30:10 --> Language Class Initialized
+INFO - 2022-11-23 14:30:10 --> Language Class Initialized
+ERROR - 2022-11-23 14:30:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 14:30:10 --> Loader Class Initialized
+INFO - 2022-11-23 14:30:10 --> Final output sent to browser
+DEBUG - 2022-11-23 14:30:10 --> Total execution time: 0.1389
+INFO - 2022-11-23 14:30:10 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:30:10 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:30:10 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:30:10 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:30:10 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:30:10 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:30:10 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:30:10 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:30:10 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:30:10 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:30:10 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:30:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:30:10 --> Pagination Class Initialized
+INFO - 2022-11-23 14:30:10 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:30:10 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:30:10 --> Email Class Initialized
+INFO - 2022-11-23 14:30:10 --> Upload Class Initialized
+INFO - 2022-11-23 14:30:10 --> Controller Class Initialized
+INFO - 2022-11-23 14:30:10 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:30:10 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:30:10 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:30:10 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:30:10 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:30:10 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:30:10 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:30:10 --> Final output sent to browser
+DEBUG - 2022-11-23 14:30:10 --> Total execution time: 0.4178
+INFO - 2022-11-23 14:30:35 --> Config Class Initialized
+INFO - 2022-11-23 14:30:35 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:30:35 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:30:35 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:30:35 --> URI Class Initialized
+INFO - 2022-11-23 14:30:35 --> Router Class Initialized
+INFO - 2022-11-23 14:30:35 --> Output Class Initialized
+INFO - 2022-11-23 14:30:35 --> Security Class Initialized
+DEBUG - 2022-11-23 14:30:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:30:35 --> Input Class Initialized
+INFO - 2022-11-23 14:30:35 --> Language Class Initialized
+INFO - 2022-11-23 14:30:35 --> Loader Class Initialized
+INFO - 2022-11-23 14:30:35 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:30:35 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:30:35 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:30:35 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:30:35 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:30:35 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:30:36 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:30:36 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:30:36 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:30:36 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:30:36 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:30:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:30:36 --> Pagination Class Initialized
+INFO - 2022-11-23 14:30:36 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:30:36 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:30:36 --> Email Class Initialized
+INFO - 2022-11-23 14:30:36 --> Upload Class Initialized
+INFO - 2022-11-23 14:30:36 --> Controller Class Initialized
+INFO - 2022-11-23 14:30:36 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:30:36 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:30:36 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:30:36 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:30:36 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:30:36 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:30:36 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:30:36 --> Final output sent to browser
+DEBUG - 2022-11-23 14:30:36 --> Total execution time: 0.5939
+INFO - 2022-11-23 14:32:07 --> Config Class Initialized
+INFO - 2022-11-23 14:32:07 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:32:07 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:32:07 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:32:07 --> URI Class Initialized
+INFO - 2022-11-23 14:32:07 --> Router Class Initialized
+INFO - 2022-11-23 14:32:07 --> Output Class Initialized
+INFO - 2022-11-23 14:32:07 --> Security Class Initialized
+DEBUG - 2022-11-23 14:32:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:32:07 --> Input Class Initialized
+INFO - 2022-11-23 14:32:07 --> Language Class Initialized
+INFO - 2022-11-23 14:32:07 --> Loader Class Initialized
+INFO - 2022-11-23 14:32:07 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:32:07 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:32:07 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:32:07 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:32:07 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:32:07 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:32:07 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:32:07 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:32:07 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:32:07 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:32:07 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:32:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:32:07 --> Pagination Class Initialized
+INFO - 2022-11-23 14:32:07 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:32:07 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:32:07 --> Email Class Initialized
+INFO - 2022-11-23 14:32:07 --> Upload Class Initialized
+INFO - 2022-11-23 14:32:07 --> Controller Class Initialized
+INFO - 2022-11-23 14:32:07 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:32:07 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:32:07 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:32:07 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:32:07 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:32:07 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:32:07 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:32:07 --> Final output sent to browser
+DEBUG - 2022-11-23 14:32:07 --> Total execution time: 0.3336
+INFO - 2022-11-23 14:40:37 --> Config Class Initialized
+INFO - 2022-11-23 14:40:37 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:40:37 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:40:37 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:40:37 --> URI Class Initialized
+INFO - 2022-11-23 14:40:37 --> Router Class Initialized
+INFO - 2022-11-23 14:40:37 --> Output Class Initialized
+INFO - 2022-11-23 14:40:37 --> Security Class Initialized
+DEBUG - 2022-11-23 14:40:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:40:37 --> Input Class Initialized
+INFO - 2022-11-23 14:40:37 --> Language Class Initialized
+INFO - 2022-11-23 14:40:37 --> Loader Class Initialized
+INFO - 2022-11-23 14:40:37 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:40:37 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:40:37 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:40:37 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:40:37 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:40:37 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:40:37 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:40:37 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:40:37 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:40:37 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:40:37 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:40:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:40:37 --> Pagination Class Initialized
+INFO - 2022-11-23 14:40:37 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:40:37 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:40:37 --> Email Class Initialized
+INFO - 2022-11-23 14:40:37 --> Upload Class Initialized
+INFO - 2022-11-23 14:40:37 --> Controller Class Initialized
+INFO - 2022-11-23 14:40:37 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:40:37 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:40:37 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:40:37 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:40:37 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:40:37 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:40:37 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:40:37 --> Final output sent to browser
+DEBUG - 2022-11-23 14:40:37 --> Total execution time: 0.3205
+INFO - 2022-11-23 14:41:04 --> Config Class Initialized
+INFO - 2022-11-23 14:41:04 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:41:04 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:41:04 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:41:04 --> URI Class Initialized
+INFO - 2022-11-23 14:41:04 --> Router Class Initialized
+INFO - 2022-11-23 14:41:04 --> Output Class Initialized
+INFO - 2022-11-23 14:41:04 --> Security Class Initialized
+DEBUG - 2022-11-23 14:41:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:41:04 --> Input Class Initialized
+INFO - 2022-11-23 14:41:04 --> Language Class Initialized
+INFO - 2022-11-23 14:41:04 --> Loader Class Initialized
+INFO - 2022-11-23 14:41:04 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:41:04 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:41:04 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:41:04 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:41:04 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:41:04 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:41:04 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:41:04 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:41:04 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:41:04 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:41:04 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:41:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:41:04 --> Pagination Class Initialized
+INFO - 2022-11-23 14:41:04 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:41:04 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:41:04 --> Email Class Initialized
+INFO - 2022-11-23 14:41:04 --> Upload Class Initialized
+INFO - 2022-11-23 14:41:04 --> Controller Class Initialized
+INFO - 2022-11-23 14:41:04 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:41:04 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:41:04 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:41:04 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:41:04 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:41:04 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:41:04 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:41:04 --> Final output sent to browser
+DEBUG - 2022-11-23 14:41:04 --> Total execution time: 0.2995
+INFO - 2022-11-23 14:41:31 --> Config Class Initialized
+INFO - 2022-11-23 14:41:31 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:41:31 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:41:31 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:41:31 --> URI Class Initialized
+INFO - 2022-11-23 14:41:31 --> Router Class Initialized
+INFO - 2022-11-23 14:41:31 --> Output Class Initialized
+INFO - 2022-11-23 14:41:31 --> Security Class Initialized
+DEBUG - 2022-11-23 14:41:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:41:31 --> Input Class Initialized
+INFO - 2022-11-23 14:41:31 --> Language Class Initialized
+INFO - 2022-11-23 14:41:31 --> Loader Class Initialized
+INFO - 2022-11-23 14:41:31 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:41:31 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:41:31 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:41:31 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:41:31 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:41:31 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:41:31 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:41:31 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:41:31 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:41:31 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:41:31 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:41:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:41:31 --> Pagination Class Initialized
+INFO - 2022-11-23 14:41:31 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:41:31 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:41:31 --> Email Class Initialized
+INFO - 2022-11-23 14:41:31 --> Upload Class Initialized
+INFO - 2022-11-23 14:41:31 --> Controller Class Initialized
+INFO - 2022-11-23 14:41:31 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:41:32 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:41:32 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:41:32 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:41:32 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:41:32 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:41:32 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:41:32 --> Final output sent to browser
+DEBUG - 2022-11-23 14:41:32 --> Total execution time: 0.3129
+INFO - 2022-11-23 14:48:16 --> Config Class Initialized
+INFO - 2022-11-23 14:48:16 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:48:16 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:48:16 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:48:16 --> URI Class Initialized
+INFO - 2022-11-23 14:48:16 --> Router Class Initialized
+INFO - 2022-11-23 14:48:16 --> Output Class Initialized
+INFO - 2022-11-23 14:48:16 --> Security Class Initialized
+DEBUG - 2022-11-23 14:48:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:48:16 --> Input Class Initialized
+INFO - 2022-11-23 14:48:16 --> Language Class Initialized
+INFO - 2022-11-23 14:48:16 --> Loader Class Initialized
+INFO - 2022-11-23 14:48:16 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:48:16 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:48:16 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:48:16 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:48:16 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:48:16 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:48:16 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:48:16 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:48:16 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:48:16 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:48:16 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:48:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:48:16 --> Pagination Class Initialized
+INFO - 2022-11-23 14:48:16 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:48:16 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:48:16 --> Email Class Initialized
+INFO - 2022-11-23 14:48:16 --> Upload Class Initialized
+INFO - 2022-11-23 14:48:16 --> Controller Class Initialized
+INFO - 2022-11-23 14:48:16 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:48:16 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:48:16 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:48:16 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:48:16 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:48:16 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:48:16 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:48:16 --> Final output sent to browser
+DEBUG - 2022-11-23 14:48:16 --> Total execution time: 0.3232
+INFO - 2022-11-23 14:49:52 --> Config Class Initialized
+INFO - 2022-11-23 14:49:52 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:49:52 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:49:52 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:49:52 --> URI Class Initialized
+INFO - 2022-11-23 14:49:52 --> Router Class Initialized
+INFO - 2022-11-23 14:49:52 --> Output Class Initialized
+INFO - 2022-11-23 14:49:52 --> Security Class Initialized
+DEBUG - 2022-11-23 14:49:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:49:52 --> Input Class Initialized
+INFO - 2022-11-23 14:49:52 --> Language Class Initialized
+INFO - 2022-11-23 14:49:52 --> Loader Class Initialized
+INFO - 2022-11-23 14:49:52 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:49:52 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:49:52 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:49:52 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:49:52 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:49:52 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:49:52 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:49:52 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:49:52 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:49:52 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:49:52 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:49:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:49:52 --> Pagination Class Initialized
+INFO - 2022-11-23 14:49:52 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:49:52 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:49:52 --> Email Class Initialized
+INFO - 2022-11-23 14:49:52 --> Upload Class Initialized
+INFO - 2022-11-23 14:49:52 --> Controller Class Initialized
+INFO - 2022-11-23 14:49:52 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:49:52 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:49:53 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:49:53 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:49:53 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:49:53 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:49:53 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:49:53 --> Final output sent to browser
+DEBUG - 2022-11-23 14:49:53 --> Total execution time: 0.4126
+INFO - 2022-11-23 14:50:02 --> Config Class Initialized
+INFO - 2022-11-23 14:50:02 --> Hooks Class Initialized
+DEBUG - 2022-11-23 14:50:02 --> UTF-8 Support Enabled
+INFO - 2022-11-23 14:50:02 --> Utf8 Class Initialized
+INFO - 2022-11-23 14:50:02 --> URI Class Initialized
+INFO - 2022-11-23 14:50:02 --> Router Class Initialized
+INFO - 2022-11-23 14:50:02 --> Output Class Initialized
+INFO - 2022-11-23 14:50:02 --> Security Class Initialized
+DEBUG - 2022-11-23 14:50:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 14:50:02 --> Input Class Initialized
+INFO - 2022-11-23 14:50:02 --> Language Class Initialized
+INFO - 2022-11-23 14:50:02 --> Loader Class Initialized
+INFO - 2022-11-23 14:50:02 --> Helper loaded: url_helper
+INFO - 2022-11-23 14:50:02 --> Helper loaded: file_helper
+INFO - 2022-11-23 14:50:02 --> Helper loaded: form_helper
+INFO - 2022-11-23 14:50:02 --> Helper loaded: security_helper
+INFO - 2022-11-23 14:50:02 --> Helper loaded: string_helper
+INFO - 2022-11-23 14:50:02 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 14:50:02 --> Helper loaded: directory_helper
+INFO - 2022-11-23 14:50:02 --> Helper loaded: download_helper
+INFO - 2022-11-23 14:50:02 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 14:50:02 --> Helper loaded: validation_helper
+INFO - 2022-11-23 14:50:02 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 14:50:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 14:50:02 --> Pagination Class Initialized
+INFO - 2022-11-23 14:50:02 --> XML-RPC Class Initialized
+INFO - 2022-11-23 14:50:02 --> Form Validation Class Initialized
+INFO - 2022-11-23 14:50:02 --> Email Class Initialized
+INFO - 2022-11-23 14:50:02 --> Upload Class Initialized
+INFO - 2022-11-23 14:50:02 --> Controller Class Initialized
+INFO - 2022-11-23 14:50:02 --> Database Driver Class Initialized
+INFO - 2022-11-23 14:50:02 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 14:50:02 --> Model "Crud_model" initialized
+INFO - 2022-11-23 14:50:02 --> Model "Email_model" initialized
+INFO - 2022-11-23 14:50:02 --> Model "Sms_model" initialized
+INFO - 2022-11-23 14:50:02 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 14:50:02 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 14:50:02 --> Final output sent to browser
+DEBUG - 2022-11-23 14:50:02 --> Total execution time: 0.4136
+INFO - 2022-11-23 15:02:57 --> Config Class Initialized
+INFO - 2022-11-23 15:02:57 --> Hooks Class Initialized
+DEBUG - 2022-11-23 15:02:57 --> UTF-8 Support Enabled
+INFO - 2022-11-23 15:02:57 --> Utf8 Class Initialized
+INFO - 2022-11-23 15:02:57 --> URI Class Initialized
+INFO - 2022-11-23 15:02:57 --> Router Class Initialized
+INFO - 2022-11-23 15:02:57 --> Output Class Initialized
+INFO - 2022-11-23 15:02:57 --> Security Class Initialized
+DEBUG - 2022-11-23 15:02:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 15:02:57 --> Input Class Initialized
+INFO - 2022-11-23 15:02:57 --> Language Class Initialized
+INFO - 2022-11-23 15:02:57 --> Loader Class Initialized
+INFO - 2022-11-23 15:02:57 --> Helper loaded: url_helper
+INFO - 2022-11-23 15:02:57 --> Helper loaded: file_helper
+INFO - 2022-11-23 15:02:57 --> Helper loaded: form_helper
+INFO - 2022-11-23 15:02:57 --> Helper loaded: security_helper
+INFO - 2022-11-23 15:02:57 --> Helper loaded: string_helper
+INFO - 2022-11-23 15:02:57 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 15:02:57 --> Helper loaded: directory_helper
+INFO - 2022-11-23 15:02:57 --> Helper loaded: download_helper
+INFO - 2022-11-23 15:02:57 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 15:02:57 --> Helper loaded: validation_helper
+INFO - 2022-11-23 15:02:57 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 15:02:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 15:02:57 --> Pagination Class Initialized
+INFO - 2022-11-23 15:02:57 --> XML-RPC Class Initialized
+INFO - 2022-11-23 15:02:57 --> Form Validation Class Initialized
+INFO - 2022-11-23 15:02:57 --> Email Class Initialized
+INFO - 2022-11-23 15:02:57 --> Upload Class Initialized
+INFO - 2022-11-23 15:02:57 --> Controller Class Initialized
+INFO - 2022-11-23 15:02:57 --> Model "Crud_model" initialized
+INFO - 2022-11-23 15:02:57 --> Model "Email_model" initialized
+INFO - 2022-11-23 15:02:57 --> Database Driver Class Initialized
+INFO - 2022-11-23 15:02:57 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 15:02:59 --> Config Class Initialized
+INFO - 2022-11-23 15:02:59 --> Hooks Class Initialized
+DEBUG - 2022-11-23 15:02:59 --> UTF-8 Support Enabled
+INFO - 2022-11-23 15:02:59 --> Config Class Initialized
+INFO - 2022-11-23 15:02:59 --> Utf8 Class Initialized
+INFO - 2022-11-23 15:02:59 --> Hooks Class Initialized
+INFO - 2022-11-23 15:02:59 --> URI Class Initialized
+DEBUG - 2022-11-23 15:02:59 --> UTF-8 Support Enabled
+INFO - 2022-11-23 15:02:59 --> Router Class Initialized
+INFO - 2022-11-23 15:02:59 --> Utf8 Class Initialized
+INFO - 2022-11-23 15:02:59 --> URI Class Initialized
+INFO - 2022-11-23 15:02:59 --> Output Class Initialized
+INFO - 2022-11-23 15:02:59 --> Security Class Initialized
+INFO - 2022-11-23 15:02:59 --> Router Class Initialized
+DEBUG - 2022-11-23 15:02:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 15:02:59 --> Input Class Initialized
+INFO - 2022-11-23 15:02:59 --> Output Class Initialized
+INFO - 2022-11-23 15:02:59 --> Language Class Initialized
+INFO - 2022-11-23 15:02:59 --> Security Class Initialized
+INFO - 2022-11-23 15:02:59 --> Loader Class Initialized
+DEBUG - 2022-11-23 15:02:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 15:02:59 --> Input Class Initialized
+INFO - 2022-11-23 15:02:59 --> Helper loaded: url_helper
+INFO - 2022-11-23 15:02:59 --> Language Class Initialized
+INFO - 2022-11-23 15:02:59 --> Helper loaded: file_helper
+ERROR - 2022-11-23 15:03:00 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 15:03:00 --> Helper loaded: form_helper
+INFO - 2022-11-23 15:03:00 --> Final output sent to browser
+INFO - 2022-11-23 15:03:00 --> Helper loaded: security_helper
+DEBUG - 2022-11-23 15:03:00 --> Total execution time: 0.1449
+INFO - 2022-11-23 15:03:00 --> Helper loaded: string_helper
+INFO - 2022-11-23 15:03:00 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 15:03:00 --> Helper loaded: directory_helper
+INFO - 2022-11-23 15:03:00 --> Helper loaded: download_helper
+INFO - 2022-11-23 15:03:00 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 15:03:00 --> Helper loaded: validation_helper
+INFO - 2022-11-23 15:03:00 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 15:03:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 15:03:00 --> Pagination Class Initialized
+INFO - 2022-11-23 15:03:00 --> XML-RPC Class Initialized
+INFO - 2022-11-23 15:03:00 --> Form Validation Class Initialized
+INFO - 2022-11-23 15:03:00 --> Email Class Initialized
+INFO - 2022-11-23 15:03:00 --> Upload Class Initialized
+INFO - 2022-11-23 15:03:00 --> Controller Class Initialized
+INFO - 2022-11-23 15:03:00 --> Model "Crud_model" initialized
+INFO - 2022-11-23 15:03:00 --> Model "Email_model" initialized
+INFO - 2022-11-23 15:03:00 --> Database Driver Class Initialized
+INFO - 2022-11-23 15:03:00 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 15:03:00 --> File loaded: /public/application/views/backend/login.php
+INFO - 2022-11-23 15:03:00 --> Final output sent to browser
+DEBUG - 2022-11-23 15:03:00 --> Total execution time: 0.3772
+INFO - 2022-11-23 15:03:18 --> Config Class Initialized
+INFO - 2022-11-23 15:03:18 --> Hooks Class Initialized
+DEBUG - 2022-11-23 15:03:18 --> UTF-8 Support Enabled
+INFO - 2022-11-23 15:03:18 --> Utf8 Class Initialized
+INFO - 2022-11-23 15:03:18 --> URI Class Initialized
+INFO - 2022-11-23 15:03:18 --> Router Class Initialized
+INFO - 2022-11-23 15:03:18 --> Output Class Initialized
+INFO - 2022-11-23 15:03:18 --> Security Class Initialized
+DEBUG - 2022-11-23 15:03:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 15:03:18 --> Input Class Initialized
+INFO - 2022-11-23 15:03:18 --> Language Class Initialized
+INFO - 2022-11-23 15:03:18 --> Loader Class Initialized
+INFO - 2022-11-23 15:03:18 --> Helper loaded: url_helper
+INFO - 2022-11-23 15:03:18 --> Helper loaded: file_helper
+INFO - 2022-11-23 15:03:18 --> Helper loaded: form_helper
+INFO - 2022-11-23 15:03:18 --> Helper loaded: security_helper
+INFO - 2022-11-23 15:03:18 --> Helper loaded: string_helper
+INFO - 2022-11-23 15:03:18 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 15:03:18 --> Helper loaded: directory_helper
+INFO - 2022-11-23 15:03:18 --> Helper loaded: download_helper
+INFO - 2022-11-23 15:03:18 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 15:03:18 --> Helper loaded: validation_helper
+INFO - 2022-11-23 15:03:18 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 15:03:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 15:03:18 --> Pagination Class Initialized
+INFO - 2022-11-23 15:03:18 --> XML-RPC Class Initialized
+INFO - 2022-11-23 15:03:18 --> Form Validation Class Initialized
+INFO - 2022-11-23 15:03:18 --> Email Class Initialized
+INFO - 2022-11-23 15:03:18 --> Upload Class Initialized
+INFO - 2022-11-23 15:03:18 --> Controller Class Initialized
+INFO - 2022-11-23 15:03:18 --> Database Driver Class Initialized
+INFO - 2022-11-23 15:03:18 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 15:03:18 --> Model "Crud_model" initialized
+INFO - 2022-11-23 15:03:18 --> Model "Email_model" initialized
+INFO - 2022-11-23 15:03:18 --> Model "Sms_model" initialized
+INFO - 2022-11-23 15:03:18 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 15:03:19 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 15:03:19 --> Final output sent to browser
+DEBUG - 2022-11-23 15:03:19 --> Total execution time: 0.4084
+INFO - 2022-11-23 15:23:03 --> Config Class Initialized
+INFO - 2022-11-23 15:23:03 --> Hooks Class Initialized
+DEBUG - 2022-11-23 15:23:03 --> UTF-8 Support Enabled
+INFO - 2022-11-23 15:23:03 --> Utf8 Class Initialized
+INFO - 2022-11-23 15:23:03 --> URI Class Initialized
+INFO - 2022-11-23 15:23:03 --> Router Class Initialized
+INFO - 2022-11-23 15:23:03 --> Output Class Initialized
+INFO - 2022-11-23 15:23:03 --> Security Class Initialized
+DEBUG - 2022-11-23 15:23:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 15:23:03 --> Input Class Initialized
+INFO - 2022-11-23 15:23:03 --> Language Class Initialized
+INFO - 2022-11-23 15:23:03 --> Loader Class Initialized
+INFO - 2022-11-23 15:23:03 --> Helper loaded: url_helper
+INFO - 2022-11-23 15:23:03 --> Helper loaded: file_helper
+INFO - 2022-11-23 15:23:03 --> Helper loaded: form_helper
+INFO - 2022-11-23 15:23:03 --> Helper loaded: security_helper
+INFO - 2022-11-23 15:23:03 --> Helper loaded: string_helper
+INFO - 2022-11-23 15:23:03 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 15:23:03 --> Helper loaded: directory_helper
+INFO - 2022-11-23 15:23:03 --> Helper loaded: download_helper
+INFO - 2022-11-23 15:23:03 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 15:23:03 --> Helper loaded: validation_helper
+INFO - 2022-11-23 15:23:03 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 15:23:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 15:23:03 --> Pagination Class Initialized
+INFO - 2022-11-23 15:23:03 --> XML-RPC Class Initialized
+INFO - 2022-11-23 15:23:03 --> Form Validation Class Initialized
+INFO - 2022-11-23 15:23:03 --> Email Class Initialized
+INFO - 2022-11-23 15:23:03 --> Upload Class Initialized
+INFO - 2022-11-23 15:23:03 --> Controller Class Initialized
+INFO - 2022-11-23 15:23:03 --> Database Driver Class Initialized
+INFO - 2022-11-23 15:23:03 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 15:23:03 --> Model "Crud_model" initialized
+INFO - 2022-11-23 15:23:03 --> Model "Email_model" initialized
+INFO - 2022-11-23 15:23:03 --> Model "Sms_model" initialized
+INFO - 2022-11-23 15:23:03 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 15:23:03 --> Config Class Initialized
+INFO - 2022-11-23 15:23:03 --> Hooks Class Initialized
+DEBUG - 2022-11-23 15:23:03 --> UTF-8 Support Enabled
+INFO - 2022-11-23 15:23:03 --> Utf8 Class Initialized
+INFO - 2022-11-23 15:23:03 --> URI Class Initialized
+INFO - 2022-11-23 15:23:03 --> Config Class Initialized
+INFO - 2022-11-23 15:23:03 --> Hooks Class Initialized
+INFO - 2022-11-23 15:23:03 --> Router Class Initialized
+DEBUG - 2022-11-23 15:23:03 --> UTF-8 Support Enabled
+INFO - 2022-11-23 15:23:03 --> Output Class Initialized
+INFO - 2022-11-23 15:23:03 --> Utf8 Class Initialized
+INFO - 2022-11-23 15:23:03 --> Security Class Initialized
+INFO - 2022-11-23 15:23:03 --> URI Class Initialized
+DEBUG - 2022-11-23 15:23:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 15:23:03 --> Input Class Initialized
+INFO - 2022-11-23 15:23:03 --> Router Class Initialized
+INFO - 2022-11-23 15:23:03 --> Language Class Initialized
+INFO - 2022-11-23 15:23:03 --> Output Class Initialized
+INFO - 2022-11-23 15:23:03 --> Security Class Initialized
+INFO - 2022-11-23 15:23:03 --> Loader Class Initialized
+DEBUG - 2022-11-23 15:23:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 15:23:04 --> Input Class Initialized
+INFO - 2022-11-23 15:23:04 --> Helper loaded: url_helper
+INFO - 2022-11-23 15:23:04 --> Language Class Initialized
+INFO - 2022-11-23 15:23:04 --> Helper loaded: file_helper
+INFO - 2022-11-23 15:23:04 --> Helper loaded: form_helper
+ERROR - 2022-11-23 15:23:04 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 15:23:04 --> Final output sent to browser
+INFO - 2022-11-23 15:23:04 --> Helper loaded: security_helper
+DEBUG - 2022-11-23 15:23:04 --> Total execution time: 0.1407
+INFO - 2022-11-23 15:23:04 --> Helper loaded: string_helper
+INFO - 2022-11-23 15:23:04 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 15:23:04 --> Helper loaded: directory_helper
+INFO - 2022-11-23 15:23:04 --> Helper loaded: download_helper
+INFO - 2022-11-23 15:23:04 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 15:23:04 --> Helper loaded: validation_helper
+INFO - 2022-11-23 15:23:04 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 15:23:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 15:23:04 --> Pagination Class Initialized
+INFO - 2022-11-23 15:23:04 --> XML-RPC Class Initialized
+INFO - 2022-11-23 15:23:04 --> Form Validation Class Initialized
+INFO - 2022-11-23 15:23:04 --> Email Class Initialized
+INFO - 2022-11-23 15:23:04 --> Upload Class Initialized
+INFO - 2022-11-23 15:23:04 --> Controller Class Initialized
+INFO - 2022-11-23 15:23:04 --> Database Driver Class Initialized
+INFO - 2022-11-23 15:23:04 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 15:23:04 --> Model "Crud_model" initialized
+INFO - 2022-11-23 15:23:04 --> Model "Email_model" initialized
+INFO - 2022-11-23 15:23:04 --> Model "Sms_model" initialized
+INFO - 2022-11-23 15:23:04 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 15:23:04 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 15:23:04 --> Final output sent to browser
+DEBUG - 2022-11-23 15:23:04 --> Total execution time: 0.4706
+INFO - 2022-11-23 15:23:40 --> Config Class Initialized
+INFO - 2022-11-23 15:23:40 --> Hooks Class Initialized
+DEBUG - 2022-11-23 15:23:40 --> UTF-8 Support Enabled
+INFO - 2022-11-23 15:23:40 --> Utf8 Class Initialized
+INFO - 2022-11-23 15:23:40 --> URI Class Initialized
+INFO - 2022-11-23 15:23:40 --> Router Class Initialized
+INFO - 2022-11-23 15:23:40 --> Output Class Initialized
+INFO - 2022-11-23 15:23:40 --> Security Class Initialized
+DEBUG - 2022-11-23 15:23:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 15:23:40 --> Input Class Initialized
+INFO - 2022-11-23 15:23:40 --> Language Class Initialized
+INFO - 2022-11-23 15:23:40 --> Loader Class Initialized
+INFO - 2022-11-23 15:23:40 --> Helper loaded: url_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: file_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: form_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: security_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: string_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: directory_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: download_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: validation_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 15:23:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 15:23:40 --> Pagination Class Initialized
+INFO - 2022-11-23 15:23:40 --> XML-RPC Class Initialized
+INFO - 2022-11-23 15:23:40 --> Form Validation Class Initialized
+INFO - 2022-11-23 15:23:40 --> Email Class Initialized
+INFO - 2022-11-23 15:23:40 --> Upload Class Initialized
+INFO - 2022-11-23 15:23:40 --> Controller Class Initialized
+INFO - 2022-11-23 15:23:40 --> Database Driver Class Initialized
+INFO - 2022-11-23 15:23:40 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 15:23:40 --> Model "Crud_model" initialized
+INFO - 2022-11-23 15:23:40 --> Model "Email_model" initialized
+INFO - 2022-11-23 15:23:40 --> Model "Sms_model" initialized
+INFO - 2022-11-23 15:23:40 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 15:23:40 --> Config Class Initialized
+INFO - 2022-11-23 15:23:40 --> Hooks Class Initialized
+DEBUG - 2022-11-23 15:23:40 --> UTF-8 Support Enabled
+INFO - 2022-11-23 15:23:40 --> Utf8 Class Initialized
+INFO - 2022-11-23 15:23:40 --> Config Class Initialized
+INFO - 2022-11-23 15:23:40 --> Hooks Class Initialized
+INFO - 2022-11-23 15:23:40 --> URI Class Initialized
+INFO - 2022-11-23 15:23:40 --> Router Class Initialized
+DEBUG - 2022-11-23 15:23:40 --> UTF-8 Support Enabled
+INFO - 2022-11-23 15:23:40 --> Utf8 Class Initialized
+INFO - 2022-11-23 15:23:40 --> Output Class Initialized
+INFO - 2022-11-23 15:23:40 --> URI Class Initialized
+INFO - 2022-11-23 15:23:40 --> Security Class Initialized
+INFO - 2022-11-23 15:23:40 --> Router Class Initialized
+DEBUG - 2022-11-23 15:23:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 15:23:40 --> Input Class Initialized
+INFO - 2022-11-23 15:23:40 --> Output Class Initialized
+INFO - 2022-11-23 15:23:40 --> Language Class Initialized
+INFO - 2022-11-23 15:23:40 --> Security Class Initialized
+INFO - 2022-11-23 15:23:40 --> Loader Class Initialized
+DEBUG - 2022-11-23 15:23:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-23 15:23:40 --> Input Class Initialized
+INFO - 2022-11-23 15:23:40 --> Helper loaded: url_helper
+INFO - 2022-11-23 15:23:40 --> Language Class Initialized
+INFO - 2022-11-23 15:23:40 --> Helper loaded: file_helper
+ERROR - 2022-11-23 15:23:40 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Error' does not have a method 'page_missing' /public/system/core/CodeIgniter.php 532
+INFO - 2022-11-23 15:23:40 --> Helper loaded: form_helper
+INFO - 2022-11-23 15:23:40 --> Final output sent to browser
+DEBUG - 2022-11-23 15:23:40 --> Total execution time: 0.1249
+INFO - 2022-11-23 15:23:40 --> Helper loaded: security_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: string_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: inflector_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: directory_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: download_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: multi_language_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: validation_helper
+INFO - 2022-11-23 15:23:40 --> Helper loaded: pagination_helper
+INFO - 2022-11-23 15:23:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-11-23 15:23:40 --> Pagination Class Initialized
+INFO - 2022-11-23 15:23:40 --> XML-RPC Class Initialized
+INFO - 2022-11-23 15:23:40 --> Form Validation Class Initialized
+INFO - 2022-11-23 15:23:40 --> Email Class Initialized
+INFO - 2022-11-23 15:23:40 --> Upload Class Initialized
+INFO - 2022-11-23 15:23:40 --> Controller Class Initialized
+INFO - 2022-11-23 15:23:40 --> Database Driver Class Initialized
+INFO - 2022-11-23 15:23:40 --> Session: Class initialized using 'database' driver.
+INFO - 2022-11-23 15:23:40 --> Model "Crud_model" initialized
+INFO - 2022-11-23 15:23:40 --> Model "Email_model" initialized
+INFO - 2022-11-23 15:23:40 --> Model "Sms_model" initialized
+INFO - 2022-11-23 15:23:40 --> Model "Frontend_model" initialized
+INFO - 2022-11-23 15:23:40 --> File loaded: /public/application/views/backend/index.php
+INFO - 2022-11-23 15:23:40 --> Final output sent to browser
+DEBUG - 2022-11-23 15:23:41 --> Total execution time: 0.4207
